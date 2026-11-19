@@ -23,7 +23,7 @@
 
 ## About
 
-Koi is a privacy-first browser for Android, built on Mozilla's GeckoView engine instead of Chromium. It blocks ads and trackers out of the box, stays light on your phone, and is easy to make your own.
+Koi is a privacy-first browser for Android, built on Mozilla's GeckoView engine. It blocks ads and trackers out of the box.
 
 > Early build: expect rough edges, and please report them in [Issues](https://github.com/r1versed/koi-browser/issues).
 
