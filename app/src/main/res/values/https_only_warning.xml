@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">No secure connection available</string>
     <string name="https_only_warning_protection">HTTPS protection</string>
-    <string name="https_only_warning_explanation">Candy could not open this page over HTTPS. An HTTP connection would be unencrypted.</string>
+    <string name="https_only_warning_explanation">Koi could not open this page over HTTPS. An HTTP connection would be unencrypted.</string>
     <string name="https_only_warning_risk">Others on the network could read or change your data.</string>
     <string name="https_only_warning_back">Go back</string>
     <string name="https_only_warning_retry">Try HTTPS again</string>

@@ -9,14 +9,14 @@
     <string name="reader_voice_download">Sprachmodell herunterladen</string>
     <string name="reader_voice_delete">Sprachmodell löschen</string>
     <string name="reader_voice_enabled_title">Supertonic Offline-Stimme</string>
-    <string name="reader_voice_enabled_summary">Ausgeschaltet verwendet Candy deine Android-Stimme. Das heruntergeladene Modell bleibt dabei erhalten.</string>
+    <string name="reader_voice_enabled_summary">Ausgeschaltet verwendet Koi deine Android-Stimme. Das heruntergeladene Modell bleibt dabei erhalten.</string>
     <string name="reader_voice_checking">Sprachmodell wird geprüft…</string>
     <string name="reader_voice_working">Sprachmodell wird aktualisiert…</string>
     <string name="reader_voice_downloading">Sprachmodell wird heruntergeladen: %1$d%%</string>
     <string name="reader_voice_model_error">Das Sprachmodell konnte nicht heruntergeladen oder aktualisiert werden. Prüfe Verbindung und freien Speicher und versuche es erneut.</string>
     <string name="reader_voice_ready">Sprachmodell heruntergeladen. Bereit zum Offline-Vorlesen.</string>
     <string name="reader_voice_missing">Sprachmodell nicht heruntergeladen.</string>
-    <string name="reader_voice_model_details">Supertonic 3 · ca. 145 MB Download · 31 Sprachen, darunter Deutsch und Englisch. Artikeltexte bleiben beim Offline-Vorlesen auf deinem Gerät. Wenn du das Modell löschst, verwendet Candy wieder Android-Stimmen.</string>
+    <string name="reader_voice_model_details">Supertonic 3 · ca. 145 MB Download · 31 Sprachen, darunter Deutsch und Englisch. Artikeltexte bleiben beim Offline-Vorlesen auf deinem Gerät. Wenn du das Modell löschst, verwendet Koi wieder Android-Stimmen.</string>
     <string name="reader_voice_model_terms">Durch Herunterladen oder Aktivieren des Modells stimmst du der OpenRAIL-M-Lizenz einschließlich ihrer Nutzungsbeschränkungen zu. Die Stimme ist KI-generiert.</string>
     <string name="reader_voice_playback_error">Diese Stimme konnte den Text nicht vorlesen. Versuche es erneut oder wechsle die Stimme.</string>
     <string name="reader_voice_model_license">Modelllizenz: OpenRAIL-M</string>

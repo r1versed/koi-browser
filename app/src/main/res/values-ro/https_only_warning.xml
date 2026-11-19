@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Nu este disponibilă o conexiune sigură</string>
     <string name="https_only_warning_protection">Protecție HTTPS</string>
-    <string name="https_only_warning_explanation">Candy nu a putut deschide această pagină prin HTTPS. O conexiune HTTP ar fi necriptată.</string>
+    <string name="https_only_warning_explanation">Koi nu a putut deschide această pagină prin HTTPS. O conexiune HTTP ar fi necriptată.</string>
     <string name="https_only_warning_risk">Alte persoane din rețea ar putea citi sau modifica datele dvs.</string>
     <string name="https_only_warning_back">Înapoi</string>
     <string name="https_only_warning_retry">Încearcă din nou HTTPS</string>

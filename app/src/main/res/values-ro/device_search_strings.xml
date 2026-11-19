@@ -2,7 +2,7 @@
 <resources>
     <string name="device_search_title">Căutare dispozitiv</string>
     <string name="device_search_settings_summary">Alegeți marcaje și articolele salvate pentru căutarea Android</string>
-    <string name="device_search_summary">Alegeți marcaje individuale și articolele salvate pentru a le partaja prin căutarea sistemului. Istoricul de navigare și textul articolului rămân în Candy. Conținutul privat și profilurile protejate sunt excluse.</string>
+    <string name="device_search_summary">Alegeți marcaje individuale și articolele salvate pentru a le partaja prin căutarea sistemului. Istoricul de navigare și textul articolului rămân în Koi. Conținutul privat și profilurile protejate sunt excluse.</string>
     <string name="device_search_enable">Distribuie prin căutarea dispozitivului</string>
     <string name="device_search_enable_summary">Sunt publicate doar articolele selectate. Dezactivarea acestei opțiuni le elimină din index.</string>
     <string name="device_search_launcher_note">Rezultatele apar numai în lansatoarele sau în aplicațiile de căutare de sistem care acceptă Android AppSearch. Disponibilitatea depinde de dispozitivul dvs.</string>
@@ -13,5 +13,5 @@
     <string name="device_search_saving">Se actualizează căutarea dispozitivului...</string>
     <string name="device_search_failed">Căutarea dispozitivului nu a putut fi actualizată. Încercați să schimbați din nou selecția.</string>
     <string name="device_search_item_unavailable">Acest articol nu mai este partajat sau disponibil.</string>
-    <string name="device_search_open">Deschideți în Candy</string>
+    <string name="device_search_open">Deschideți în Koi</string>
 </resources>

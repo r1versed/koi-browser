@@ -2,7 +2,7 @@
 <resources>
     <string name="device_search_title">Cihaz arama</string>
     <string name="device_search_settings_summary">Android araması için yer işaretlerini ve kayıtlı makaleleri seçin</string>
-    <string name="device_search_summary">"Sistem aramasıyla paylaşmak için ayrı ayrı yer imlerini ve kayıtlı makaleleri seçin. Tarama geçmişi ve makale metni Candy'de kalır. Özel içerik ve korumalı profiller hariçtir."</string>
+    <string name="device_search_summary">"Sistem aramasıyla paylaşmak için ayrı ayrı yer imlerini ve kayıtlı makaleleri seçin. Tarama geçmişi ve makale metni Koi'de kalır. Özel içerik ve korumalı profiller hariçtir."</string>
     <string name="device_search_enable">Cihaz aramasıyla paylaş</string>
     <string name="device_search_enable_summary">Yalnızca seçilen öğeler yayınlanır. Bunu kapatmak onları dizinden kaldırır.</string>
     <string name="device_search_launcher_note">"Sonuçlar yalnızca Android AppSearch'ü destekleyen başlatıcılarda veya sistem arama uygulamalarında görünür. Kullanılabilirlik cihazınıza bağlıdır."</string>
@@ -13,5 +13,5 @@
     <string name="device_search_saving">Cihaz araması güncelleniyor…</string>
     <string name="device_search_failed">Cihaz araması güncellenemedi. Seçimi tekrar değiştirmeyi deneyin.</string>
     <string name="device_search_item_unavailable">Bu öğe artık paylaşılmıyor veya kullanılamıyor.</string>
-    <string name="device_search_open">"Candy'de aç"</string>
+    <string name="device_search_open">"Koi'de aç"</string>
 </resources>

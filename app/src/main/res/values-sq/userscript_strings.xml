@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Përshtatni faqet që përputhen me Toppings</string>
     <string name="userscript_risk_title">Përdor vetëm Toppings që u beson</string>
     <string name="userscript_risk_body">Kodi i Topping mund të lexojë ose ndryshojë përmbajtjen e faqes dhe të dhënat e sesionit në sajtet që përputhen, të veprojë si përdoruesi juaj i identifikuar dhe të ngadalësojë paraqitjen e faqes. Shto vetëm Toppings nga burime që u beson.</string>
-    <string name="userscript_runtime_unsupported">Sistemi Gecko për Toppings nuk mundi të nisej. Rinis ose përditëso Candy për të aktivizuar Toppings.</string>
+    <string name="userscript_runtime_unsupported">Sistemi Gecko për Toppings nuk mundi të nisej. Rinis ose përditëso Koi për të aktivizuar Toppings.</string>
     <string name="userscript_scope_title">Para se të shtoni një Topping</string>
     <string name="userscript_regular_tabs_only">Toppings ekzekutohen vetëm në skedat e zakonshme. Nuk ekzekutohen kurrë në skedat private.</string>
     <string name="userscript_no_gm_apis">Mbështetet vetëm JavaScript standard i faqes. GM_* dhe API-të e shtesave nuk janë të disponueshme.</string>
@@ -50,7 +50,7 @@
     <string name="userscript_import_error_empty">Ky dosje është bosh.</string>
     <string name="userscript_import_error_too_large">Ky skedar tejkalon kufirin %1$d KB Topping.</string>
     <string name="userscript_import_error_invalid_utf8">Ky skedar nuk eshte tekst i vlefshem UTF-8.</string>
-    <string name="userscript_import_error_unreadable">Candy nuk mund ta lexoje kete skedar.</string>
+    <string name="userscript_import_error_unreadable">Koi nuk mund ta lexoje kete skedar.</string>
     <string name="userscript_import_error_invalid_metadata">Blloku i metadatave usercript mungon ose është i deformuar.</string>
     <string name="userscript_import_error_missing_name">Bloku i metadatave ka nevojë për pikërisht një @name.</string>
     <string name="userscript_import_error_name_too_long">@name duhet të jetë jo më shumë se %1$d karaktere dhe nuk duhet të përmbajë karaktere kontrolli.</string>
@@ -62,15 +62,15 @@
     <string name="userscript_import_error_unsupported_grant">Ky Topping kërkon një leje të papranueshme @grant ose @connect.</string>
     <string name="userscript_import_error_invalid_dependency">Një varësi @require ose @resource ka një emër të pavlefshëm, HTTPS URL ose hash integriteti.</string>
     <string name="userscript_import_error_too_many_dependencies">Kjo Topping deklaron shumë varësi @require ose @resource.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy nuk mund të shkarkojë në mënyrë të sigurt një varësi @require ose @resource.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi nuk mund të shkarkojë në mënyrë të sigurt një varësi @require ose @resource.</string>
     <string name="userscript_import_error_dependency_too_large">Një varësi @require ose @resource tejkalon kufirin e shkarkimit.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Një varësi @require nuk është e vlefshme UTF-8 tekst.</string>
     <string name="userscript_import_error_dependency_integrity">Një varësi @require ose @resource nuk përputhet me hash-in e saj të integritetit.</string>
-    <string name="userscript_import_error_save_failed">Candy lexoi këtë Topping por nuk mund ta ruante.</string>
+    <string name="userscript_import_error_save_failed">Koi lexoi këtë Topping por nuk mund ta ruante.</string>
     <string name="userscript_import_success">%1$s u importua.</string>
     <string name="topping_discover">Zbulimi Toppings</string>
     <string name="topping_catalog_title">Zbulimi Toppings</string>
-    <string name="topping_catalog_subtitle">Përmirësimet e komunitetit nga katalogu Candy</string>
+    <string name="topping_catalog_subtitle">Përmirësimet e komunitetit nga katalogu Koi</string>
     <string name="topping_catalog_loading">Po ngarkohen Toppings…</string>
     <string name="topping_catalog_error_title">Toppings nuk është në dispozicion</string>
     <string name="topping_catalog_error_body">Katalogu nuk mund të ngarkohet. Kontrolloni lidhjen dhe provoni përsëri.</string>

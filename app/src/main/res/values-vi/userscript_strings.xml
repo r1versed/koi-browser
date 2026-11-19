@@ -5,7 +5,7 @@
     <string name="settings_home_userscripts_summary">Tùy chỉnh trang phù hợp với Toppings</string>
     <string name="userscript_risk_title">Chỉ sử dụng Toppings mà bạn tin tưởng</string>
     <string name="userscript_risk_body">Mã Topping có thể đọc hoặc thay đổi nội dung trang và dữ liệu phiên trên các trang web phù hợp, hoạt động với tư cách người dùng đã đăng nhập và làm chậm việc hiển thị trang. Chỉ thêm Toppings từ nguồn bạn tin tưởng.</string>
-    <string name="userscript_runtime_unsupported">Máy chủ Gecko Topping không thể khởi động. Khởi động lại hoặc cập nhật Candy để cho phép Toppings.</string>
+    <string name="userscript_runtime_unsupported">Máy chủ Gecko Topping không thể khởi động. Khởi động lại hoặc cập nhật Koi để cho phép Toppings.</string>
     <string name="userscript_scope_title">Trước khi bạn thêm một Topping</string>
     <string name="userscript_regular_tabs_only">Toppings chỉ chạy trong thẻ thường. Chúng không bao giờ chạy trong thẻ ẩn danh.</string>
     <string name="userscript_no_gm_apis">Chỉ hỗ trợ JavaScript tiêu chuẩn của trang. Không hỗ trợ GM_* và API tiện ích mở rộng.</string>
@@ -48,7 +48,7 @@
     <string name="userscript_import_error_empty">Tệp này trống rỗng.</string>
     <string name="userscript_import_error_too_large">Tệp này vượt quá giới hạn %1$d KB Topping.</string>
     <string name="userscript_import_error_invalid_utf8">Tệp này không phải là văn bản UTF-8 hợp lệ.</string>
-    <string name="userscript_import_error_unreadable">Candy không thể đọc tập tin này.</string>
+    <string name="userscript_import_error_unreadable">Koi không thể đọc tập tin này.</string>
     <string name="userscript_import_error_invalid_metadata">Khối siêu dữ liệu usercript bị thiếu hoặc bị biến dạng.</string>
     <string name="userscript_import_error_missing_name">Khối siêu dữ liệu cần đúng một @name.</string>
     <string name="userscript_import_error_name_too_long">@name được phép có tối đa %1$d ký tự và không chứa ký tự điều khiển.</string>
@@ -60,15 +60,15 @@
     <string name="userscript_import_error_unsupported_grant">Topping này yêu cầu quyền @grant hoặc @connect không được hỗ trợ.</string>
     <string name="userscript_import_error_invalid_dependency">Một phần phụ thuộc @require hoặc @resource có tên, URL HTTPS hoặc hàm băm toàn vẹn không hợp lệ.</string>
     <string name="userscript_import_error_too_many_dependencies">Điều này Topping tuyên bố quá nhiều @require hoặc @resource sự phụ thuộc.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy không thể tải xuống một sự phụ thuộc @require hoặc @resource một cách an toàn.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi không thể tải xuống một sự phụ thuộc @require hoặc @resource một cách an toàn.</string>
     <string name="userscript_import_error_dependency_too_large">Một sự phụ thuộc @require hoặc @resource vượt quá giới hạn tải xuống.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Một sự phụ thuộc @require không hợp lệ UTF-8 văn bản.</string>
     <string name="userscript_import_error_dependency_integrity">Một phần phụ thuộc @require hoặc @resource không khớp với hàm băm toàn vẹn.</string>
-    <string name="userscript_import_error_save_failed">Candy đọc này Topping nhưng không thể lưu nó.</string>
+    <string name="userscript_import_error_save_failed">Koi đọc này Topping nhưng không thể lưu nó.</string>
     <string name="userscript_import_success">%1$s được nhập khẩu.</string>
     <string name="topping_discover">Khám phá Toppings</string>
     <string name="topping_catalog_title">Khám phá Toppings</string>
-    <string name="topping_catalog_subtitle">Các cải tiến cộng đồng từ danh mục Candy</string>
+    <string name="topping_catalog_subtitle">Các cải tiến cộng đồng từ danh mục Koi</string>
     <string name="topping_catalog_loading">Loading Toppings...</string>
     <string name="topping_catalog_error_title">Toppings không có sẵn</string>
     <string name="topping_catalog_error_body">Không thể tải danh mục. Kiểm tra kết nối và thử lại.</string>

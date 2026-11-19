@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Nenhuma conexão segura disponível</string>
     <string name="https_only_warning_protection">Proteção HTTPS</string>
-    <string name="https_only_warning_explanation">O Candy não conseguiu abrir esta página por HTTPS. Uma conexão HTTP não seria criptografada.</string>
+    <string name="https_only_warning_explanation">O Koi não conseguiu abrir esta página por HTTPS. Uma conexão HTTP não seria criptografada.</string>
     <string name="https_only_warning_risk">Outras pessoas na rede poderiam ler ou alterar seus dados.</string>
     <string name="https_only_warning_back">Voltar</string>
     <string name="https_only_warning_retry">Tentar HTTPS novamente</string>

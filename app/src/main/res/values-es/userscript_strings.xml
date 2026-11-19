@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Personaliza páginas coincidentes con Toppings</string>
     <string name="userscript_risk_title">Usa solo Toppings de confianza</string>
     <string name="userscript_risk_body">El código de un Topping puede leer o cambiar el contenido y los datos de sesión en sitios coincidentes, actuar como tu usuario conectado y ralentizar el renderizador. Añade solo Toppings de fuentes de confianza.</string>
-    <string name="userscript_runtime_unsupported">No se pudo iniciar el host Gecko de Toppings. Reinicia o actualiza Candy para activarlos.</string>
+    <string name="userscript_runtime_unsupported">No se pudo iniciar el host Gecko de Toppings. Reinicia o actualiza Koi para activarlos.</string>
     <string name="userscript_scope_title">Antes de añadir un Topping</string>
     <string name="userscript_regular_tabs_only">Los Toppings solo se ejecutan en pestañas normales, nunca en pestañas privadas.</string>
     <string name="userscript_no_gm_apis">Solo se admite JavaScript estándar de la página. Las API GM_* y de extensiones no están disponibles.</string>
@@ -50,7 +50,7 @@
     <string name="userscript_import_error_empty">Este archivo está vacío.</string>
     <string name="userscript_import_error_too_large">Este archivo supera el límite de %1$d KB para Toppings.</string>
     <string name="userscript_import_error_invalid_utf8">Este archivo no es texto UTF-8 válido.</string>
-    <string name="userscript_import_error_unreadable">Candy no pudo leer este archivo.</string>
+    <string name="userscript_import_error_unreadable">Koi no pudo leer este archivo.</string>
     <string name="userscript_import_error_invalid_metadata">Falta el bloque de metadatos del userscript o no es válido.</string>
     <string name="userscript_import_error_missing_name">El bloque de metadatos necesita exactamente una entrada @name.</string>
     <string name="userscript_import_error_name_too_long">@name debe tener como máximo %1$d caracteres y no contener caracteres de control.</string>
@@ -62,15 +62,15 @@
     <string name="userscript_import_error_unsupported_grant">Este Topping solicita un permiso @grant o @connect no compatible.</string>
     <string name="userscript_import_error_invalid_dependency">Una dependencia @require o @resource tiene un nombre, una URL HTTPS o un hash de integridad no válidos.</string>
     <string name="userscript_import_error_too_many_dependencies">Este Topping declara demasiadas dependencias @require o @resource.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy no pudo descargar de forma segura una dependencia @require o @resource.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi no pudo descargar de forma segura una dependencia @require o @resource.</string>
     <string name="userscript_import_error_dependency_too_large">Una dependencia @require o @resource supera el límite de descarga.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Una dependencia @require no es texto UTF-8 válido.</string>
     <string name="userscript_import_error_dependency_integrity">Una dependencia @require o @resource no coincide con su hash de integridad.</string>
-    <string name="userscript_import_error_save_failed">Candy pudo leer este Topping, pero no guardarlo.</string>
+    <string name="userscript_import_error_save_failed">Koi pudo leer este Topping, pero no guardarlo.</string>
     <string name="userscript_import_success">Se importó %1$s.</string>
     <string name="topping_discover">Descubrir Toppings</string>
     <string name="topping_catalog_title">Descubrir Toppings</string>
-    <string name="topping_catalog_subtitle">Mejoras de la comunidad del catálogo de Candy</string>
+    <string name="topping_catalog_subtitle">Mejoras de la comunidad del catálogo de Koi</string>
     <string name="topping_catalog_loading">Cargando Toppings…</string>
     <string name="topping_catalog_error_title">Toppings no disponibles</string>
     <string name="topping_catalog_error_body">No se pudo cargar el catálogo. Comprueba tu conexión e inténtalo de nuevo.</string>

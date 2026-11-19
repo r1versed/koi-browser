@@ -3,7 +3,7 @@
     <string name="site_widget_name">Corte do site (protótipo)</string>
     <string name="site_widget_name_square">Corte do site 4×4 (protótipo)</string>
     <string name="site_widget_description">Mantenha uma área selecionada do site na tela inicial</string>
-    <string name="site_widget_empty">Abra uma página em Candy e toque aqui para selecionar uma área.</string>
+    <string name="site_widget_empty">Abra uma página em Koi e toque aqui para selecionar uma área.</string>
     <string name="site_widget_open">Abrir página</string>
     <string name="site_widget_refresh">Atualizar</string>
     <string name="site_widget_unavailable">Esta página não pode ser salva como widget. Use um perfil local normal e desprotegido.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4×4</string>
     <string name="site_widget_editor_size">Tamanho da seleção</string>
     <string name="site_widget_editor_pin">Adicionar à tela inicial</string>
-    <string name="site_widget_editor_interaction_hint">O widget mostra um instantâneo. Toque nele para abrir a página em Candy.</string>
+    <string name="site_widget_editor_interaction_hint">O widget mostra um instantâneo. Toque nele para abrir a página em Koi.</string>
     <string name="site_widget_private_unavailable">Os widgets do site não estão disponíveis nas guias privadas.</string>
     <string name="site_widget_capture_failed">Não foi possível capturar esta página. Tente novamente quando terminar de carregar.</string>
-    <string name="site_widget_pin_unavailable">Este iniciador não oferece suporte à adição direta de widgets. Adicione o widget do site Candy de seu seletor de widget.</string>
+    <string name="site_widget_pin_unavailable">Este iniciador não oferece suporte à adição direta de widgets. Adicione o widget do site Koi de seu seletor de widget.</string>
     <string name="site_widget_save_failed">Não foi possível salvar este widget. Por favor, tente novamente.</string>
     <string name="site_widget_reselect">Editar corte</string>
     <string name="site_widget_refresh_failed">Falha na atualização. O último instantâneo ainda é mostrado.</string>

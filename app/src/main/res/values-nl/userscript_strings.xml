@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Passende pagina\'s aanpassen met Toppings</string>
     <string name="userscript_risk_title">Gebruik alleen Toppings die je vertrouwt</string>
     <string name="userscript_risk_body">Topping-code kan pagina-inhoud en sessiegegevens op overeenkomende websites lezen of wijzigen, handelen als je aangemelde gebruiker en de paginaweergave vertragen. Voeg alleen Toppings toe van bronnen die je vertrouwt.</string>
-    <string name="userscript_runtime_unsupported">De Gecko Topping host kon niet starten. Herstart of update Candy om in te schakelen Toppings.</string>
+    <string name="userscript_runtime_unsupported">De Gecko Topping host kon niet starten. Herstart of update Koi om in te schakelen Toppings.</string>
     <string name="userscript_scope_title">Voordat u een Topping toevoegt</string>
     <string name="userscript_regular_tabs_only">Toppings werken alleen in gewone tabbladen. Ze werken nooit in privétabbladen.</string>
     <string name="userscript_no_gm_apis">Alleen standaard JavaScript op de pagina wordt ondersteund. GM_* en extensie-API’s zijn niet beschikbaar.</string>
@@ -50,7 +50,7 @@
     <string name="userscript_import_error_empty">Dit bestand is leeg.</string>
     <string name="userscript_import_error_too_large">Dit bestand overschrijdt de %1$d KB Topping limiet.</string>
     <string name="userscript_import_error_invalid_utf8">Dit bestand is niet geldig UTF-8 tekst.</string>
-    <string name="userscript_import_error_unreadable">Candy kon dit bestand niet lezen.</string>
+    <string name="userscript_import_error_unreadable">Koi kon dit bestand niet lezen.</string>
     <string name="userscript_import_error_invalid_metadata">Het metadatablok van het gebruikersscript ontbreekt of ontbreekt.</string>
     <string name="userscript_import_error_missing_name">Het metadatablok heeft precies één nodig @name.</string>
     <string name="userscript_import_error_name_too_long">@name moet ten hoogste %1$d tekens zijn en geen controletekens bevatten.</string>
@@ -62,15 +62,15 @@
     <string name="userscript_import_error_unsupported_grant">Dit Topping verzoekt een niet-ondersteunde @grant of @connect toestemming.</string>
     <string name="userscript_import_error_invalid_dependency">Een @require of @resource afhankelijkheid heeft een ongeldige naam, HTTPS URL, of integriteit hash.</string>
     <string name="userscript_import_error_too_many_dependencies">Dit Topping verklaart te veel @require of @resource afhankelijkheid.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy kon een @require of @resource afhankelijkheid niet veilig downloaden.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi kon een @require of @resource afhankelijkheid niet veilig downloaden.</string>
     <string name="userscript_import_error_dependency_too_large">Een @require of @resource afhankelijkheid overschrijdt de downloadlimiet.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Een @require afhankelijkheid is niet geldig UTF-8 tekst.</string>
     <string name="userscript_import_error_dependency_integrity">Een @require of @resource afhankelijkheid komt niet overeen met zijn integriteit hash.</string>
-    <string name="userscript_import_error_save_failed">Candy Lees dit Topping maar kon het niet opslaan.</string>
+    <string name="userscript_import_error_save_failed">Koi Lees dit Topping maar kon het niet opslaan.</string>
     <string name="userscript_import_success">%1$s werd ingevoerd.</string>
     <string name="topping_discover">Ontdek Toppings</string>
     <string name="topping_catalog_title">Ontdek Toppings</string>
-    <string name="topping_catalog_subtitle">Communautaire verbeteringen uit de catalogus Candy</string>
+    <string name="topping_catalog_subtitle">Communautaire verbeteringen uit de catalogus Koi</string>
     <string name="topping_catalog_loading">Laden Toppings...</string>
     <string name="topping_catalog_error_title">Toppings niet beschikbaar</string>
     <string name="topping_catalog_error_body">De catalogus kon niet geladen worden. Controleer uw verbinding en probeer het opnieuw.</string>

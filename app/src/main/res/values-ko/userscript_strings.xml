@@ -5,7 +5,7 @@
     <string name="settings_home_userscripts_summary">Toppings와 일치하는 페이지를 사용자 정의</string>
     <string name="userscript_risk_title">신뢰할 수 있는 Toppings만 사용하세요</string>
     <string name="userscript_risk_body">Topping 코드는 해당 사이트의 페이지 콘텐츠와 세션 데이터를 읽거나 변경하고, 로그인한 사용자로 동작하며, 페이지 렌더링을 느리게 할 수 있습니다. 신뢰할 수 있는 출처의 Toppings만 추가하세요.</string>
-    <string name="userscript_runtime_unsupported">Gecko Topping 호스트가 시작되지 않았습니다. 다시 시작하거나 업데이트 Candy하여 Toppings를 활성화합니다.</string>
+    <string name="userscript_runtime_unsupported">Gecko Topping 호스트가 시작되지 않았습니다. 다시 시작하거나 업데이트 Koi하여 Toppings를 활성화합니다.</string>
     <string name="userscript_scope_title">Topping를 추가하기 전에</string>
     <string name="userscript_regular_tabs_only">Toppings는 일반 탭에서만 실행됩니다. 시크릿 탭에서는 실행되지 않습니다.</string>
     <string name="userscript_no_gm_apis">표준 페이지 JavaScript만 지원합니다. GM_* 및 확장 프로그램 API는 사용할 수 없습니다.</string>
@@ -48,7 +48,7 @@
     <string name="userscript_import_error_empty">이 파일은 텅 비어 있습니다.</string>
     <string name="userscript_import_error_too_large">이 파일은 %1$d KB Topping 한도를 초과합니다.</string>
     <string name="userscript_import_error_invalid_utf8">이 파일은 유효한 UTF-8 텍스트가 아닙니다.</string>
-    <string name="userscript_import_error_unreadable">Candy 이 파일을 읽을 수 없습니다.</string>
+    <string name="userscript_import_error_unreadable">Koi 이 파일을 읽을 수 없습니다.</string>
     <string name="userscript_import_error_invalid_metadata">사용자 스크립트 메타데이터 블록이 없거나 변형되어 있습니다.</string>
     <string name="userscript_import_error_missing_name">메타데이터 블록에는 @name이 정확히 하나 있어야 합니다.</string>
     <string name="userscript_import_error_name_too_long">@name은 최대 %1$d자여야 하며 제어 문자를 포함할 수 없습니다.</string>
@@ -60,15 +60,15 @@
     <string name="userscript_import_error_unsupported_grant">이 Topping은 지원되지 않는 @grant 또는 @connect 권한을 요청합니다.</string>
     <string name="userscript_import_error_invalid_dependency">@require 또는 @resource 의존성의 이름, HTTPS URL 또는 무결성 해시가 올바르지 않습니다.</string>
     <string name="userscript_import_error_too_many_dependencies">이 Topping는 너무 많은 @require 또는 @resource 의존성을 선언합니다.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy는 @require 또는 @resource 의존성을 안전하게 다운로드할 수 없습니다.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi는 @require 또는 @resource 의존성을 안전하게 다운로드할 수 없습니다.</string>
     <string name="userscript_import_error_dependency_too_large">@require 또는 @resource 의존성은 다운로드 한도를 초과합니다.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">@require 의존성은 유효한 UTF-8 텍스트가 아닙니다.</string>
     <string name="userscript_import_error_dependency_integrity">@require 또는 @resource 의존성이 무결성 해시와 일치하지 않습니다.</string>
-    <string name="userscript_import_error_save_failed">Candy는 이 Topping를 읽었지만 저장할 수 없었습니다.</string>
+    <string name="userscript_import_error_save_failed">Koi는 이 Topping를 읽었지만 저장할 수 없었습니다.</string>
     <string name="userscript_import_success">%1$s는 수입되었습니다.</string>
     <string name="topping_discover">발견 Toppings</string>
     <string name="topping_catalog_title">발견 Toppings</string>
-    <string name="topping_catalog_subtitle">Candy 카탈로그에서 공동체의 개선</string>
+    <string name="topping_catalog_subtitle">Koi 카탈로그에서 공동체의 개선</string>
     <string name="topping_catalog_loading">로딩 Toppings...</string>
     <string name="topping_catalog_error_title">Toppings 사용할 수 없습니다</string>
     <string name="topping_catalog_error_body">카탈로그를 로드할 수 없습니다. 연결을 확인하고 다시 시도해보세요.</string>

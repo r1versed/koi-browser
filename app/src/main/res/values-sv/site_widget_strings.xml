@@ -3,7 +3,7 @@
     <string name="site_widget_name">Webbplatsbeskärning (prototyp)</string>
     <string name="site_widget_name_square">Webbplatsbeskärning 4×4 (prototyp)</string>
     <string name="site_widget_description">Behåll ett valt webbplatsområde på din startskärm</string>
-    <string name="site_widget_empty">Öppna en sida i Candy och tryck sedan här för att välja ett område.</string>
+    <string name="site_widget_empty">Öppna en sida i Koi och tryck sedan här för att välja ett område.</string>
     <string name="site_widget_open">Öppna sidan</string>
     <string name="site_widget_refresh">Uppdatera</string>
     <string name="site_widget_unavailable">Den här sidan kan inte sparas som en widget. Använd en vanlig, oskyddad lokal profil.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Urvalsstorlek</string>
     <string name="site_widget_editor_pin">Lägg till på startskärmen</string>
-    <string name="site_widget_editor_interaction_hint">Widgeten visar en ögonblicksbild. Tryck på den för att öppna sidan i Candy.</string>
+    <string name="site_widget_editor_interaction_hint">Widgeten visar en ögonblicksbild. Tryck på den för att öppna sidan i Koi.</string>
     <string name="site_widget_private_unavailable">Webbplatswidgetar är inte tillgängliga på privata flikar.</string>
     <string name="site_widget_capture_failed">Det gick inte att fånga den här sidan. Försök igen när den har laddats klart.</string>
-    <string name="site_widget_pin_unavailable">Den här startprogrammet stöder inte att lägga till widgets direkt. Lägg till Candy-webbplatswidgeten från dess widgetväljare.</string>
+    <string name="site_widget_pin_unavailable">Den här startprogrammet stöder inte att lägga till widgets direkt. Lägg till Koi-webbplatswidgeten från dess widgetväljare.</string>
     <string name="site_widget_save_failed">Det gick inte att spara den här widgeten. Försök igen.</string>
     <string name="site_widget_reselect">Redigera beskärning</string>
     <string name="site_widget_refresh_failed">Uppdateringen misslyckades. Den sista ögonblicksbilden visas fortfarande.</string>

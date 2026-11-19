@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Прилагодити одговарајуће странице са Toppings</string>
     <string name="userscript_risk_title">Користите само Toppings којима верујете</string>
     <string name="userscript_risk_body">Код Topping-а може да чита или мења садржај странице и податке сесије на одговарајућим веб-сајтовима, делује као ваш пријављени корисник и успори приказ странице. Додајте само Toppings из извора којима верујете.</string>
-    <string name="userscript_runtime_unsupported">Gecko систем за Toppings није могао да се покрене. Поново покрените или ажурирајте Candy да омогућите Toppings.</string>
+    <string name="userscript_runtime_unsupported">Gecko систем за Toppings није могао да се покрене. Поново покрените или ажурирајте Koi да омогућите Toppings.</string>
     <string name="userscript_scope_title">Пре него што додате Topping</string>
     <string name="userscript_regular_tabs_only">Toppings се извршавају само у обичним картицама. Никада се не извршавају у приватним картицама.</string>
     <string name="userscript_no_gm_apis">Подржан је само стандардни JavaScript странице. GM_* и API-ји проширења нису доступни.</string>
@@ -51,7 +51,7 @@
     <string name="userscript_import_error_empty">Ова датотека је празна.</string>
     <string name="userscript_import_error_too_large">Ова датотека прелази границу %1$d KB Topping.</string>
     <string name="userscript_import_error_invalid_utf8">Ова датотека није валидан UTF-8 текст.</string>
-    <string name="userscript_import_error_unreadable">Candy није могао да прочита ову датотеку.</string>
+    <string name="userscript_import_error_unreadable">Koi није могао да прочита ову датотеку.</string>
     <string name="userscript_import_error_invalid_metadata">Блок метаподатака userscript недостаје или је деформисан.</string>
     <string name="userscript_import_error_missing_name">Блоку метаподатака треба тачно један @name.</string>
     <string name="userscript_import_error_name_too_long">@name мора бити највише %1$d знакова и не садржи контролне знакове.</string>
@@ -63,15 +63,15 @@
     <string name="userscript_import_error_unsupported_grant">Ово Topping тражи неподржану @grant или @connect дозволу.</string>
     <string name="userscript_import_error_invalid_dependency">Зависност @require или @resource има неважеће име, HTTPS URL или хаш интегритета.</string>
     <string name="userscript_import_error_too_many_dependencies">Ово Topping декларише превише @require или @resource зависности.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy није могао сигурно да преузме @require или @resource зависност.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi није могао сигурно да преузме @require или @resource зависност.</string>
     <string name="userscript_import_error_dependency_too_large">Зависност @require или @resource прелази ограничење преузимања.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Зависност @require није важећи текст UTF-8.</string>
     <string name="userscript_import_error_dependency_integrity">Зависност @require или @resource не одговара хешу интегритета.</string>
-    <string name="userscript_import_error_save_failed">Candy прочитао Topping али није могао да га сачува.</string>
+    <string name="userscript_import_error_save_failed">Koi прочитао Topping али није могао да га сачува.</string>
     <string name="userscript_import_success">%1$s је увезен.</string>
     <string name="topping_discover">Откривање Toppings</string>
     <string name="topping_catalog_title">Откривање Toppings</string>
-    <string name="topping_catalog_subtitle">Побољшања заједнице из каталога Candy</string>
+    <string name="topping_catalog_subtitle">Побољшања заједнице из каталога Koi</string>
     <string name="topping_catalog_loading">Учитавање Toppings…</string>
     <string name="topping_catalog_error_title">Toppings недоступно</string>
     <string name="topping_catalog_error_body">Каталог није могао да се учита. Проверите своју везу и покушајте поново.</string>

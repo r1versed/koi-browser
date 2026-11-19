@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Няма налична защитена връзка</string>
     <string name="https_only_warning_protection">HTTPS защита</string>
-    <string name="https_only_warning_explanation">Candy не можа да отвори тази страница през HTTPS. HTTP връзката би била нешифрована.</string>
+    <string name="https_only_warning_explanation">Koi не можа да отвори тази страница през HTTPS. HTTP връзката би била нешифрована.</string>
     <string name="https_only_warning_risk">Други в мрежата биха могли да четат или променят данните ви.</string>
     <string name="https_only_warning_back">Назад</string>
     <string name="https_only_warning_retry">Опитай HTTPS отново</string>

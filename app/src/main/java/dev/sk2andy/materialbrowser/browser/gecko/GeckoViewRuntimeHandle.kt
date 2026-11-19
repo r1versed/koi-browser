@@ -121,6 +121,7 @@ internal class GeckoViewRuntimeHandle private constructor(
     private val downloadTransfers: GeckoDownloadTransferManager,
 ) : GeckoRuntimeHandle {
     private val siteData = GeckoSiteDataRuntime(runtime.webExtensionController)
+    private val mediaSniffer = GeckoMediaSnifferRuntime(runtime.webExtensionController).also { it.start() }
     private val cookieBehavior = GeckoCookieBehaviorCoordinator(
         runtime.settings.contentBlocking,
     )

@@ -3,7 +3,7 @@
     <string name="site_widget_name">Przycięcie strony internetowej (prototyp)</string>
     <string name="site_widget_name_square">Przycięcie strony internetowej 4×4 (prototyp)</string>
     <string name="site_widget_description">Zachowaj wybrany obszar witryny na ekranie głównym</string>
-    <string name="site_widget_empty">Otwórz stronę w Candy, a następnie dotknij tutaj, aby wybrać obszar.</string>
+    <string name="site_widget_empty">Otwórz stronę w Koi, a następnie dotknij tutaj, aby wybrać obszar.</string>
     <string name="site_widget_open">Otwórz stronę</string>
     <string name="site_widget_refresh">Odśwież</string>
     <string name="site_widget_unavailable">Tej strony nie można zapisać jako widgetu. Użyj zwykłego, niezabezpieczonego profilu lokalnego.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Rozmiar wyboru</string>
     <string name="site_widget_editor_pin">Dodaj do ekranu głównego</string>
-    <string name="site_widget_editor_interaction_hint">Widżet wyświetla migawkę. Stuknij, aby otworzyć stronę w Candy.</string>
+    <string name="site_widget_editor_interaction_hint">Widżet wyświetla migawkę. Stuknij, aby otworzyć stronę w Koi.</string>
     <string name="site_widget_private_unavailable">Widżety witryny internetowej są niedostępne w zakładkach prywatnych.</string>
     <string name="site_widget_capture_failed">Nie udało się przechwycić tej strony. Spróbuj ponownie po zakończeniu ładowania.</string>
-    <string name="site_widget_pin_unavailable">Ten program uruchamiający nie obsługuje bezpośredniego dodawania widżetów. Dodaj widżet witryny internetowej Candy z selektora widżetów.</string>
+    <string name="site_widget_pin_unavailable">Ten program uruchamiający nie obsługuje bezpośredniego dodawania widżetów. Dodaj widżet witryny internetowej Koi z selektora widżetów.</string>
     <string name="site_widget_save_failed">Nie można zapisać tego widżetu. Spróbuj ponownie.</string>
     <string name="site_widget_reselect">Edytuj przycięcie</string>
     <string name="site_widget_refresh_failed">Odświeżanie nie powiodło się. Ostatni zrzut ekranu jest nadal wyświetlany.</string>

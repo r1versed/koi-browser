@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Prilagoditev ustreznih strani z Toppings</string>
     <string name="userscript_risk_title">Uporabljajte le Toppings, ki jim zaupate</string>
     <string name="userscript_risk_body">Koda Toppinga lahko na ustreznih spletnih straneh bere ali spreminja vsebino strani in podatke seje, deluje kot vaš prijavljeni uporabnik ter upočasni izris strani. Dodajajte le Toppings iz virov, ki jim zaupate.</string>
-    <string name="userscript_runtime_unsupported">Gostitelja Toppings v Gecko ni bilo mogoče zagnati. Znova zaženite ali posodobite Candy, da omogočite Toppings.</string>
+    <string name="userscript_runtime_unsupported">Gostitelja Toppings v Gecko ni bilo mogoče zagnati. Znova zaženite ali posodobite Koi, da omogočite Toppings.</string>
     <string name="userscript_scope_title">Preden dodate Topping</string>
     <string name="userscript_regular_tabs_only">Toppings se izvajajo samo v običajnih zavihkih. Nikoli se ne izvajajo v zasebnih zavihkih.</string>
     <string name="userscript_no_gm_apis">Podprt je samo standardni JavaScript strani. GM_* in API-ji razširitev niso na voljo.</string>
@@ -52,7 +52,7 @@
     <string name="userscript_import_error_empty">Ta datoteka je prazna.</string>
     <string name="userscript_import_error_too_large">Ta datoteka presega mejo %1$d KB Topping.</string>
     <string name="userscript_import_error_invalid_utf8">Ta datoteka ni veljavna UTF-8 besedilo.</string>
-    <string name="userscript_import_error_unreadable">Candy ni mogel prebrati te datoteke.</string>
+    <string name="userscript_import_error_unreadable">Koi ni mogel prebrati te datoteke.</string>
     <string name="userscript_import_error_invalid_metadata">Blok uporabniških metapodatkov manjka ali je napačno oblikovan.</string>
     <string name="userscript_import_error_missing_name">Blok z metapodatki potrebuje natančno eno @name.</string>
     <string name="userscript_import_error_name_too_long">@name mora biti največ %1$d znakov in ne sme vsebovati kontrolnih znakov.</string>
@@ -64,15 +64,15 @@
     <string name="userscript_import_error_unsupported_grant">Ta Topping zahteva nedopolnjeno @grant ali @connect dovoljenje.</string>
     <string name="userscript_import_error_invalid_dependency">Odvisnost @require ali @resource ima neveljavno ime, HTTPS URL ali integritetni hash.</string>
     <string name="userscript_import_error_too_many_dependencies">Ta Topping razglasi preveč @require ali @resource odvisnosti.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy ni mogel varno prenesti odvisnosti @require ali @resource.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi ni mogel varno prenesti odvisnosti @require ali @resource.</string>
     <string name="userscript_import_error_dependency_too_large">Odvisnost @require ali @resource presega omejitev prenosa.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">@require odvisnost ni veljavna UTF-8 besedilo.</string>
     <string name="userscript_import_error_dependency_integrity">Odvisnost @require ali @resource se ne ujema z integritetnim hashom.</string>
-    <string name="userscript_import_error_save_failed">Candy sem prebral Topping vendar ga nisem mogel shraniti.</string>
+    <string name="userscript_import_error_save_failed">Koi sem prebral Topping vendar ga nisem mogel shraniti.</string>
     <string name="userscript_import_success">%1$s je bilo uvoženo.</string>
     <string name="topping_discover">Odkrivanje Toppings</string>
     <string name="topping_catalog_title">Odkrivanje Toppings</string>
-    <string name="topping_catalog_subtitle">Izboljšave Skupnosti iz kataloga Candy</string>
+    <string name="topping_catalog_subtitle">Izboljšave Skupnosti iz kataloga Koi</string>
     <string name="topping_catalog_loading">Nalaganje Toppings…</string>
     <string name="topping_catalog_error_title">Toppings ni na voljo</string>
     <string name="topping_catalog_error_body">Katalog ni bil mogoče naložiti. Preverite povezavo in poskusite znova.</string>

@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Keng sécher Verbindung disponibel</string>
     <string name="https_only_warning_protection">HTTPS-Schutz</string>
-    <string name="https_only_warning_explanation">Candy konnt dës Säit net iwwer HTTPS opmaachen. Eng HTTP-Verbindung wier net verschlësselt.</string>
+    <string name="https_only_warning_explanation">Koi konnt dës Säit net iwwer HTTPS opmaachen. Eng HTTP-Verbindung wier net verschlësselt.</string>
     <string name="https_only_warning_risk">Anerer am Netzwierk kéinten deng Date liesen oder änneren.</string>
     <string name="https_only_warning_back">Zréckgoen</string>
     <string name="https_only_warning_retry">HTTPS nach eng Kéier probéieren</string>

@@ -3,7 +3,7 @@
     <string name="site_widget_name">Nettstedbeskjæring (prototype)</string>
     <string name="site_widget_name_square">Nettstedbeskjæring 4×4 (prototype)</string>
     <string name="site_widget_description">Hold et valgt nettstedsområde på startskjermen</string>
-    <string name="site_widget_empty">Åpne en side i Candy, og trykk deretter her for å velge et område.</string>
+    <string name="site_widget_empty">Åpne en side i Koi, og trykk deretter her for å velge et område.</string>
     <string name="site_widget_open">Åpne siden</string>
     <string name="site_widget_refresh">Oppdater</string>
     <string name="site_widget_unavailable">Denne siden kan ikke lagres som en widget. Bruk en vanlig, ubeskyttet lokal profil.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Utvalgsstørrelse</string>
     <string name="site_widget_editor_pin">Legg til på startskjermen</string>
-    <string name="site_widget_editor_interaction_hint">Widgeten viser et øyeblikksbilde. Trykk på den for å åpne siden i Candy.</string>
+    <string name="site_widget_editor_interaction_hint">Widgeten viser et øyeblikksbilde. Trykk på den for å åpne siden i Koi.</string>
     <string name="site_widget_private_unavailable">Nettstedswidgeter er utilgjengelige i private faner.</string>
     <string name="site_widget_capture_failed">Kunne ikke fange denne siden. Prøv igjen når den er ferdig lastet.</string>
-    <string name="site_widget_pin_unavailable">Denne lanseringen støtter ikke å legge til widgets direkte. Legg til Candy-nettstedets widget fra widgetvelgeren.</string>
+    <string name="site_widget_pin_unavailable">Denne lanseringen støtter ikke å legge til widgets direkte. Legg til Koi-nettstedets widget fra widgetvelgeren.</string>
     <string name="site_widget_save_failed">Kunne ikke lagre denne widgeten. Prøv igjen.</string>
     <string name="site_widget_reselect">Rediger beskjæring</string>
     <string name="site_widget_refresh_failed">Oppdatering mislyktes. Det siste øyeblikksbildet vises fortsatt.</string>

@@ -2,7 +2,7 @@
 <resources>
     <string name="device_search_title">Iskanje naprave</string>
     <string name="device_search_settings_summary">Izberite zaznamke in shranjene članke za iskanje v sistemu Android</string>
-    <string name="device_search_summary">Izberite posamezne zaznamke in shranjene članke, ki jih želite deliti s sistemskim iskanjem. Zgodovina brskanja in besedilo članka ostaneta v Candy. Zasebna vsebina in zaščiteni profili so izključeni.</string>
+    <string name="device_search_summary">Izberite posamezne zaznamke in shranjene članke, ki jih želite deliti s sistemskim iskanjem. Zgodovina brskanja in besedilo članka ostaneta v Koi. Zasebna vsebina in zaščiteni profili so izključeni.</string>
     <string name="device_search_enable">Delite z iskanjem naprave</string>
     <string name="device_search_enable_summary">Objavljeni so samo izbrani artikli. Če to izklopite, jih odstranite iz indeksa.</string>
     <string name="device_search_launcher_note">Rezultati se prikažejo samo v zaganjalnikih ali aplikacijah za sistemsko iskanje, ki podpirajo Android AppSearch. Razpoložljivost je odvisna od vaše naprave.</string>
@@ -13,5 +13,5 @@
     <string name="device_search_saving">Posodabljanje iskanja naprave …</string>
     <string name="device_search_failed">Iskanja naprav ni bilo mogoče posodobiti. Poskusite znova spremeniti izbiro.</string>
     <string name="device_search_item_unavailable">Ta element ni več v skupni rabi ali na voljo.</string>
-    <string name="device_search_open">Odpri v Candy</string>
+    <string name="device_search_open">Odpri v Koi</string>
 </resources>

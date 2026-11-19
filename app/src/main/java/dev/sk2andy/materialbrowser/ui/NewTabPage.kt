@@ -164,25 +164,13 @@ internal fun NewTabPage(
                     shape = RoundedCornerShape(
                         BlankTabModeMorphRules.heroCornerRadiusDp(boundedProgress).dp,
                     ),
-                    color = lerp(NewTabHeroRegularColor, blankTabColors.incognitoHero, boundedProgress),
-                    shadowElevation = BlankTabModeMorphRules.HERO_SHADOW_ELEVATION_DP.dp,
+                    color = lerp(NewTabHeroRegularColor.copy(alpha = 0f), blankTabColors.incognitoHero, boundedProgress),
+                    shadowElevation = (BlankTabModeMorphRules.HERO_SHADOW_ELEVATION_DP * boundedProgress).dp,
                 ) {
                     Box(
                         modifier = Modifier.size(96.dp),
                         contentAlignment = Alignment.Center,
                     ) {
-                        Icon(
-                            painter = painterResource(R.drawable.ic_launcher_foreground_art),
-                            contentDescription = null,
-                            modifier = Modifier
-                                .size(68.dp)
-                                .graphicsLayer {
-                                    alpha = regularIconAlpha
-                                    scaleX = BlankTabModeMorphRules.iconScale(regularIconAlpha)
-                                    scaleY = scaleX
-                                },
-                            tint = Color.Unspecified,
-                        )
                         Icon(
                             painter = painterResource(R.drawable.ic_incognito_filled),
                             contentDescription = null,
@@ -195,96 +183,6 @@ internal fun NewTabPage(
                                 },
                             tint = blankTabColors.incognitoContent,
                         )
-                    }
-                }
-                if (!incognito) {
-                    Column(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .weight(1f, fill = false)
-                            .graphicsLayer {
-                                alpha = favoritesAlpha().coerceIn(0f, 1f)
-                            },
-                    ) {
-                        Spacer(Modifier.height(24.dp))
-                        Surface(
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .weight(1f, fill = false),
-                            shape = RoundedCornerShape(28.dp),
-                            color = colors.surfaceContainerLow.copy(alpha = 0.74f),
-                            tonalElevation = 3.dp,
-                            border = BorderStroke(
-                                width = 1.dp,
-                                color = colors.outlineVariant.copy(alpha = 0.32f),
-                            ),
-                        ) {
-                            Column {
-                                Row(
-                                    modifier = Modifier
-                                        .fillMaxWidth()
-                                        .padding(start = 20.dp, end = 8.dp, top = 10.dp, bottom = 2.dp),
-                                    horizontalArrangement = Arrangement.spacedBy(8.dp),
-                                    verticalAlignment = Alignment.CenterVertically,
-                                ) {
-                                    Text(
-                                        text = stringResource(R.string.favorites_title),
-                                        color = colors.onSurfaceVariant,
-                                        style = MaterialTheme.typography.titleSmall,
-                                        fontWeight = FontWeight.SemiBold,
-                                    )
-                                    Spacer(Modifier.weight(1f))
-                                    IconButton(
-                                        onClick = onOpenFavorites,
-                                        enabled = contentEnabled,
-                                        modifier = Modifier.testTag(NewTabFavoritesTestTags.Manage),
-                                    ) {
-                                        Icon(
-                                            painter = painterResource(R.drawable.ic_symbol_settings),
-                                            contentDescription = stringResource(R.string.favorites_manage),
-                                            tint = colors.onSurfaceVariant,
-                                        )
-                                    }
-                                    IconButton(
-                                        onClick = { addFavoriteVisible = true },
-                                        enabled = contentEnabled,
-                                        modifier = Modifier.testTag(NewTabFavoritesTestTags.Add),
-                                    ) {
-                                        Icon(
-                                            painter = painterResource(R.drawable.ic_symbol_add),
-                                            contentDescription = stringResource(R.string.action_add_favorite),
-                                            tint = colors.onSurfaceVariant,
-                                        )
-                                    }
-                                }
-                                NewTabFavoriteGrid(
-                                    favorites = favorites,
-                                    library = favoriteLibrary,
-                                    favicons = favicons,
-                                    folderIcons = folderIcons,
-                                    enabled = contentEnabled,
-                                    animateShapes = interactive && favoriteLaunchAnimationEnabled,
-                                    animationSpeed = favoriteAnimationSpeed,
-                                    onFavorite = { favorite, startCenterInWindow, shapeState ->
-                                        if (
-                                            !favoriteLaunchAnimationEnabled ||
-                                            !startCenterInWindow.isUsable() ||
-                                            !rootOriginInWindow.isUsable() ||
-                                            !heroCenterInWindow.isUsable()
-                                        ) {
-                                            onFavorite(favorite.url)
-                                        } else {
-                                            launchRequest = NewTabFavoriteLaunchRequest(
-                                                favorite = favorite,
-                                                startCenterInWindow = startCenterInWindow,
-                                                shapeState = shapeState,
-                                            )
-                                        }
-                                    },
-                                    onReorderFavorite = onReorderFavorite,
-                                )
-                            }
-                        }
                     }
                 }
             }

@@ -943,7 +943,7 @@ open class MainActivity : AppCompatActivity() {
                         visible = splashVisible && !videoOnlyPresentation,
                         exit = fadeOut(tween(260)) + scaleOut(targetScale = 0.96f),
                     ) {
-                        CandySplashScreen()
+                        CandySplashScreen(onFinished = { splashVisible = false })
                     }
                     releaseNotesContent?.takeIf { showReleaseNotes }?.let { content ->
                         ReleaseNotesScreen(
@@ -2107,7 +2107,7 @@ open class MainActivity : AppCompatActivity() {
     }
 
     private companion object {
-        const val SPLASH_DURATION_MILLIS = 1_050L
+        const val SPLASH_DURATION_MILLIS = 2_600L
         const val STATE_CAPSULE_ID = "active_site_capsule_id"
         const val STATE_CAPSULE_TAB_ID = "active_site_capsule_tab_id"
         const val STATE_EXTERNAL_LINK_PREVIEW_ACTIVE = "external_link_preview_active"

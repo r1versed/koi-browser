@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Personnaliséiert passend Säiten mat Toppings</string>
     <string name="userscript_risk_title">Benotz nëmmen Toppings, deenen s du vertraus</string>
     <string name="userscript_risk_body">Topping-Code kann op passende Websäiten den Inhalt an d’Sessiounsdate liesen oder änneren, als ageloggte Benotzer handelen an d’Säiterendering verlangsamen. Setz nëmmen Toppings aus vertrauenswürdege Quellen dobäi.</string>
-    <string name="userscript_runtime_unsupported">Den Gecko Topping Host konnt net starten. Neestart oder aktualiséiert Candy fir Toppings ze aktivéieren.</string>
+    <string name="userscript_runtime_unsupported">Den Gecko Topping Host konnt net starten. Neestart oder aktualiséiert Koi fir Toppings ze aktivéieren.</string>
     <string name="userscript_scope_title">Ier Dir e Topping addéiert</string>
     <string name="userscript_regular_tabs_only">Toppings lafen nëmmen an normalen Tabs. Si lafen ni a privaten Tabs.</string>
     <string name="userscript_no_gm_apis">Nëmme Standard-JavaScript vun der Säit gëtt ënnerstëtzt. GM_* an Erweiderungs-APIs sinn net disponibel.</string>
@@ -50,7 +50,7 @@
     <string name="userscript_import_error_empty">Dës Datei ass eidel.</string>
     <string name="userscript_import_error_too_large">Dës Datei iwwerschreift d\'Limit %1$d KB Topping.</string>
     <string name="userscript_import_error_invalid_utf8">Dës Datei ass net gülteg UTF-8 Text.</string>
-    <string name="userscript_import_error_unreadable">Candy konnt dës Datei net liesen.</string>
+    <string name="userscript_import_error_unreadable">Koi konnt dës Datei net liesen.</string>
     <string name="userscript_import_error_invalid_metadata">De UserScript Metadatenblock feelt oder ass falsch geformt.</string>
     <string name="userscript_import_error_missing_name">De Metadatenblock brauch genau ee @name.</string>
     <string name="userscript_import_error_name_too_long">@name muss net méi wéi %1$d Zeechen sinn a keng Kontrollzeechen enthalen.</string>
@@ -62,15 +62,15 @@
     <string name="userscript_import_error_unsupported_grant">Dëst Topping freet eng net ënnerstëtzt @grant oder @connect Erlaabnis.</string>
     <string name="userscript_import_error_invalid_dependency">Eng @require oder @resource Ofhängegkeet huet en ongëltegen Numm, HTTPS URL oder Integritéitshash.</string>
     <string name="userscript_import_error_too_many_dependencies">Dëst Topping deklaréiert ze vill @require oder @resource Ofhängegkeeten.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy konnt net eng @require oder @resource Ofhängegkeet sécher eroflueden.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi konnt net eng @require oder @resource Ofhängegkeet sécher eroflueden.</string>
     <string name="userscript_import_error_dependency_too_large">Eng @require oder @resource Ofhängegkeet iwwerschreift d\'Downloadlimit.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Eng @require Ofhängegkeet ass net gülteg UTF-8 Text.</string>
     <string name="userscript_import_error_dependency_integrity">Eng @require oder @resource Ofhängegkeet passt net mat hirem Integritéitshash.</string>
-    <string name="userscript_import_error_save_failed">Candy huet dëst gelies Topping awer konnt et net späicheren.</string>
+    <string name="userscript_import_error_save_failed">Koi huet dëst gelies Topping awer konnt et net späicheren.</string>
     <string name="userscript_import_success">%1$s war importéiert.</string>
     <string name="topping_discover">Entdecken Toppings</string>
     <string name="topping_catalog_title">Entdecken Toppings</string>
-    <string name="topping_catalog_subtitle">Gemeinschaftlech Verbesserungen aus dem Candy Katalog</string>
+    <string name="topping_catalog_subtitle">Gemeinschaftlech Verbesserungen aus dem Koi Katalog</string>
     <string name="topping_catalog_loading">Loading Toppings ...</string>
     <string name="topping_catalog_error_title">Toppings net verfügbar</string>
     <string name="topping_catalog_error_body">De Katalog konnt net eropgeluede ginn. Préift Är Verbindung a probéiert nach eng Kéier.</string>

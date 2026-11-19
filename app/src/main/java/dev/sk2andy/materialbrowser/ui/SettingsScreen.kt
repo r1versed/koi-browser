@@ -67,6 +67,7 @@ import java.util.Locale
 
 @Composable
 internal fun SettingsScreen(
+    onEditHomeWallpaper: () -> Unit = {},
     appLanguageTag: String = "",
     supportedAppLocales: List<Locale> = emptyList(),
     onAppLanguageChanged: (String) -> Unit = {},
@@ -574,6 +575,11 @@ internal fun SettingsScreen(
                     navigationContent = {
                         if (currentDestination == SettingsDestination.Appearance) {
                             AppearanceSubpageLinks(onDestinationChanged)
+                            androidx.compose.material3.TextButton(onClick = onEditHomeWallpaper) {
+                                androidx.compose.material3.Text(
+                                    androidx.compose.ui.res.stringResource(R.string.action_customize_new_tab_wallpaper),
+                                )
+                            }
                         }
                     },
                     settings = appearanceSettings,

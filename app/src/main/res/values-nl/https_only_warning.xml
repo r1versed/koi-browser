@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Geen veilige verbinding beschikbaar</string>
     <string name="https_only_warning_protection">HTTPS-bescherming</string>
-    <string name="https_only_warning_explanation">Candy kon deze pagina niet via HTTPS openen. Een HTTP-verbinding zou niet versleuteld zijn.</string>
+    <string name="https_only_warning_explanation">Koi kon deze pagina niet via HTTPS openen. Een HTTP-verbinding zou niet versleuteld zijn.</string>
     <string name="https_only_warning_risk">Anderen op het netwerk kunnen je gegevens lezen of wijzigen.</string>
     <string name="https_only_warning_back">Ga terug</string>
     <string name="https_only_warning_retry">Probeer HTTPS opnieuw</string>

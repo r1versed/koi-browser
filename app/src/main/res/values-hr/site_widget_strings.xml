@@ -20,7 +20,7 @@
     <string name="site_widget_editor_interaction_hint">Widget prikazuje snimku. Dodirnite ga da biste otvorili stranicu u Candyju.</string>
     <string name="site_widget_private_unavailable">Widgeti web stranice nisu dostupni u privatnim karticama.</string>
     <string name="site_widget_capture_failed">Ovu stranicu nije moguće snimiti. Pokušajte ponovno nakon što se učita.</string>
-    <string name="site_widget_pin_unavailable">Ovaj pokretač ne podržava izravno dodavanje widgeta. Dodajte widget web stranice Candy iz njegovog alata za odabir widgeta.</string>
+    <string name="site_widget_pin_unavailable">Ovaj pokretač ne podržava izravno dodavanje widgeta. Dodajte widget web stranice Koi iz njegovog alata za odabir widgeta.</string>
     <string name="site_widget_save_failed">Nije moguće spremiti ovaj widget. Molimo pokušajte ponovo.</string>
     <string name="site_widget_reselect">Uredi obrezivanje</string>
     <string name="site_widget_refresh_failed">Osvježavanje nije uspjelo. Posljednja snimka je još uvijek prikazana.</string>

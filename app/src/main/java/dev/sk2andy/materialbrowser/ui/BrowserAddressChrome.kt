@@ -304,7 +304,7 @@ internal fun BoxScope.BrowserAddressChrome(
         actionLayout = controller.addressBarActionLayout,
         showCastButton = !BuildConfig.FOSS_DISTRIBUTION &&
             (controller.castMediaCandidate != null || castUiState.isConnected),
-        showQrScanner = !BuildConfig.FOSS_DISTRIBUTION,
+        showQrScanner = false,
         tabCount = controller.activeTabs.size,
         wideTabs = wideTabs,
         wideTabStripEnabled = wideTabStripEnabled,

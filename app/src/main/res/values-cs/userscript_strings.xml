@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Přizpůsobit odpovídající stránky pomocí Toppings</string>
     <string name="userscript_risk_title">Používejte pouze důvěryhodné Toppings</string>
     <string name="userscript_risk_body">Kód Topping může na odpovídajících webech číst nebo měnit obsah stránky a data relace, jednat jako přihlášený uživatel a zpomalovat vykreslování stránky. Přidávejte pouze Toppings z důvěryhodných zdrojů.</string>
-    <string name="userscript_runtime_unsupported">Hostitele Toppings v Gecko nelze spustit. Restartujte nebo aktualizujte Candy pro zapnutí Toppings.</string>
+    <string name="userscript_runtime_unsupported">Hostitele Toppings v Gecko nelze spustit. Restartujte nebo aktualizujte Koi pro zapnutí Toppings.</string>
     <string name="userscript_scope_title">Před přidáním Topping</string>
     <string name="userscript_regular_tabs_only">Toppings se spouštějí pouze v běžných panelech. V soukromých panelech se nikdy nespouštějí.</string>
     <string name="userscript_no_gm_apis">Podporován je pouze standardní JavaScript stránky. API GM_* a rozšíření nejsou dostupná.</string>
@@ -52,7 +52,7 @@
     <string name="userscript_import_error_empty">Tento soubor je prázdný.</string>
     <string name="userscript_import_error_too_large">Tento soubor překračuje limit Topping %1$d KB.</string>
     <string name="userscript_import_error_invalid_utf8">Tento soubor není platný text UTF-8.</string>
-    <string name="userscript_import_error_unreadable">Candy nemohlo přečíst tento soubor.</string>
+    <string name="userscript_import_error_unreadable">Koi nemohlo přečíst tento soubor.</string>
     <string name="userscript_import_error_invalid_metadata">Blok metadat uživatelského skriptu chybí nebo je chybný.</string>
     <string name="userscript_import_error_missing_name">Blok metadat potřebuje právě jeden @name.</string>
     <string name="userscript_import_error_name_too_long">@name smí mít nejvýše %1$d znaků a nesmí obsahovat řídicí znaky.</string>
@@ -64,15 +64,15 @@
     <string name="userscript_import_error_unsupported_grant">Tento Topping žádá nepodporované oprávnění @grant nebo @connect.</string>
     <string name="userscript_import_error_invalid_dependency">Závislost @require nebo @resource má neplatný název, HTTPS URL nebo hash integrity.</string>
     <string name="userscript_import_error_too_many_dependencies">Tento Topping uvádí příliš mnoho závislostí @require nebo @resource.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy nemohlo bezpečně stáhnout závislost @require nebo @resource.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi nemohlo bezpečně stáhnout závislost @require nebo @resource.</string>
     <string name="userscript_import_error_dependency_too_large">Závislost @require nebo @resource překračuje limit stahování.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Závislost @require není platný text UTF-8.</string>
     <string name="userscript_import_error_dependency_integrity">Závislost @require nebo @resource neodpovídá svému hashi integrity.</string>
-    <string name="userscript_import_error_save_failed">Candy přečetlo tento Topping, ale nemohlo ho uložit.</string>
+    <string name="userscript_import_error_save_failed">Koi přečetlo tento Topping, ale nemohlo ho uložit.</string>
     <string name="userscript_import_success">%1$s byl importován.</string>
     <string name="topping_discover">Objevovat Toppings</string>
     <string name="topping_catalog_title">Objevovat Toppings</string>
-    <string name="topping_catalog_subtitle">Komunitní vylepšení z katalogu Candy</string>
+    <string name="topping_catalog_subtitle">Komunitní vylepšení z katalogu Koi</string>
     <string name="topping_catalog_loading">Načítání Toppings…</string>
     <string name="topping_catalog_error_title">Toppings nejsou dostupné</string>
     <string name="topping_catalog_error_body">Katalog nelze načíst. Zkontrolujte připojení a zkuste to znovu.</string>

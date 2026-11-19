@@ -1,7 +1,7 @@
 <resources>
     <string name="https_only_warning_title">Không có kết nối an toàn</string>
     <string name="https_only_warning_protection">Bảo vệ HTTPS</string>
-    <string name="https_only_warning_explanation">Candy không thể mở trang này qua HTTPS. Kết nối HTTP sẽ không được mã hóa.</string>
+    <string name="https_only_warning_explanation">Koi không thể mở trang này qua HTTPS. Kết nối HTTP sẽ không được mã hóa.</string>
     <string name="https_only_warning_risk">Người khác trên mạng có thể đọc hoặc thay đổi dữ liệu của bạn.</string>
     <string name="https_only_warning_back">Quay lại</string>
     <string name="https_only_warning_retry">Thử lại HTTPS</string>

@@ -1,7 +1,7 @@
 <resources>
     <string name="https_only_warning_title">安全な接続を利用できません</string>
     <string name="https_only_warning_protection">HTTPS 保護</string>
-    <string name="https_only_warning_explanation">Candy はこのページを HTTPS で開けませんでした。HTTP 接続は暗号化されません。</string>
+    <string name="https_only_warning_explanation">Koi はこのページを HTTPS で開けませんでした。HTTP 接続は暗号化されません。</string>
     <string name="https_only_warning_risk">ネットワーク上の第三者にデータを読み取られたり、変更されたりする可能性があります。</string>
     <string name="https_only_warning_back">戻る</string>
     <string name="https_only_warning_retry">HTTPS を再試行</string>

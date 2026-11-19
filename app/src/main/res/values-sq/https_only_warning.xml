@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Nuk ka lidhje të sigurt</string>
     <string name="https_only_warning_protection">Mbrojtja HTTPS</string>
-    <string name="https_only_warning_explanation">Candy nuk mundi ta hapte këtë faqe përmes HTTPS. Një lidhje HTTP do të ishte e pashifruar.</string>
+    <string name="https_only_warning_explanation">Koi nuk mundi ta hapte këtë faqe përmes HTTPS. Një lidhje HTTP do të ishte e pashifruar.</string>
     <string name="https_only_warning_risk">Të tjerët në rrjet mund t’i lexojnë ose ndryshojnë të dhënat tuaja.</string>
     <string name="https_only_warning_back">Kthehu prapa</string>
     <string name="https_only_warning_retry">Provo përsëri HTTPS</string>

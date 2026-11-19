@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Защищённое соединение недоступно</string>
     <string name="https_only_warning_protection">Защита HTTPS</string>
-    <string name="https_only_warning_explanation">Candy не удалось открыть эту страницу через HTTPS. Соединение HTTP будет незашифрованным.</string>
+    <string name="https_only_warning_explanation">Koi не удалось открыть эту страницу через HTTPS. Соединение HTTP будет незашифрованным.</string>
     <string name="https_only_warning_risk">Другие участники сети могут прочитать или изменить ваши данные.</string>
     <string name="https_only_warning_back">Назад</string>
     <string name="https_only_warning_retry">Повторить попытку с HTTPS</string>

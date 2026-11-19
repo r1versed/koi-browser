@@ -9,7 +9,7 @@
     <string name="reader_voice_download">Download voice model</string>
     <string name="reader_voice_delete">Delete voice model</string>
     <string name="reader_voice_enabled_title">Supertonic offline voice</string>
-    <string name="reader_voice_enabled_summary">When off, Candy uses your Android voice. Turning this off keeps the downloaded model.</string>
+    <string name="reader_voice_enabled_summary">When off, Koi uses your Android voice. Turning this off keeps the downloaded model.</string>
     <string name="reader_voice_checking">Checking the voice model…</string>
     <string name="reader_voice_working">Updating the voice model…</string>
     <string name="reader_voice_downloading">Downloading voice model: %1$d%%</string>

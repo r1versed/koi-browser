@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Настройка подходящих страниц с помощью Toppings</string>
     <string name="userscript_risk_title">Используйте только Toppings, которым доверяете</string>
     <string name="userscript_risk_body">Код Topping может читать или изменять содержимое страниц и данные сеанса на подходящих сайтах, действовать от имени вашей учётной записи и замедлять отображение страниц. Добавляйте Toppings только из источников, которым доверяете.</string>
-    <string name="userscript_runtime_unsupported">Среду Gecko для Toppings не удалось запустить. Перезапустите или обновите Candy, чтобы включить Toppings.</string>
+    <string name="userscript_runtime_unsupported">Среду Gecko для Toppings не удалось запустить. Перезапустите или обновите Koi, чтобы включить Toppings.</string>
     <string name="userscript_scope_title">Перед добавлением Topping</string>
     <string name="userscript_regular_tabs_only">Toppings работают только в обычных вкладках. В приватных вкладках они никогда не запускаются.</string>
     <string name="userscript_no_gm_apis">Поддерживается только стандартный JavaScript страницы. GM_* и API расширений недоступны.</string>
@@ -52,7 +52,7 @@
     <string name="userscript_import_error_empty">Этот файл пуст.</string>
     <string name="userscript_import_error_too_large">Размер файла превышает лимит Topping в %1$d КБ.</string>
     <string name="userscript_import_error_invalid_utf8">Этот файл не является корректным текстом UTF-8.</string>
-    <string name="userscript_import_error_unreadable">Candy не удалось прочитать файл.</string>
+    <string name="userscript_import_error_unreadable">Koi не удалось прочитать файл.</string>
     <string name="userscript_import_error_invalid_metadata">Блок метаданных пользовательского скрипта отсутствует или некорректен.</string>
     <string name="userscript_import_error_missing_name">Блок метаданных должен содержать ровно один @name.</string>
     <string name="userscript_import_error_name_too_long">@name должен содержать не более %1$d символов без управляющих символов.</string>
@@ -64,15 +64,15 @@
     <string name="userscript_import_error_unsupported_grant">Этот Topping запрашивает неподдерживаемое разрешение @grant или @connect.</string>
     <string name="userscript_import_error_invalid_dependency">Зависимость @require или @resource имеет некорректное имя, HTTPS URL или хеш целостности.</string>
     <string name="userscript_import_error_too_many_dependencies">Этот Topping объявляет слишком много зависимостей @require или @resource.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy не удалось безопасно загрузить зависимость @require или @resource.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi не удалось безопасно загрузить зависимость @require или @resource.</string>
     <string name="userscript_import_error_dependency_too_large">Зависимость @require или @resource превышает лимит загрузки.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Зависимость @require не является корректным текстом UTF-8.</string>
     <string name="userscript_import_error_dependency_integrity">Зависимость @require или @resource не соответствует своему хешу целостности.</string>
-    <string name="userscript_import_error_save_failed">Candy прочитал Topping, но не смог его сохранить.</string>
+    <string name="userscript_import_error_save_failed">Koi прочитал Topping, но не смог его сохранить.</string>
     <string name="userscript_import_success">%1$s импортирован.</string>
     <string name="topping_discover">Найти Toppings</string>
     <string name="topping_catalog_title">Найти Toppings</string>
-    <string name="topping_catalog_subtitle">Улучшения от сообщества из каталога Candy</string>
+    <string name="topping_catalog_subtitle">Улучшения от сообщества из каталога Koi</string>
     <string name="topping_catalog_loading">Загрузка Toppings…</string>
     <string name="topping_catalog_error_title">Toppings недоступны</string>
     <string name="topping_catalog_error_body">Не удалось загрузить каталог. Проверьте подключение и повторите попытку.</string>

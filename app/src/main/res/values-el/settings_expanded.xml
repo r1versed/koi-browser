@@ -8,8 +8,8 @@
     <string name="settings_gesture_private_tabs_group">Ιδιωτικές καρτέλες</string>
     <string name="settings_gesture_link_actions_group">Ενέργειες συνδέσμων</string>
     <string name="settings_player_disabled_explanation">Συνέχεια χρήσης του προγράμματος αναπαραγωγής του ιστοτόπου.</string>
-    <string name="settings_player_button_fullscreen_explanation">Ένα κουμπί ανοίγει τα εντοπισμένα βίντεο σε πλήρη οθόνη στο Candy Player.</string>
+    <string name="settings_player_button_fullscreen_explanation">Ένα κουμπί ανοίγει τα εντοπισμένα βίντεο σε πλήρη οθόνη στο Koi Player.</string>
     <string name="settings_player_button_inline_explanation">Ένα κουμπί ξεκινά το βίντεο μέσα στη σελίδα. Η πλήρης οθόνη παραμένει διαθέσιμη στο πρόγραμμα αναπαραγωγής.</string>
-    <string name="settings_player_fullscreen_explanation">Χρήση του Candy Player όταν ο ιστότοπος ανοίγει ένα βίντεο σε πλήρη οθόνη.</string>
-    <string name="settings_player_automatic_explanation">Αυτόματο άνοιγμα του Candy Player όταν εντοπίζεται βίντεο με δυνατότητα αναπαραγωγής.</string>
+    <string name="settings_player_fullscreen_explanation">Χρήση του Koi Player όταν ο ιστότοπος ανοίγει ένα βίντεο σε πλήρη οθόνη.</string>
+    <string name="settings_player_automatic_explanation">Αυτόματο άνοιγμα του Koi Player όταν εντοπίζεται βίντεο με δυνατότητα αναπαραγωγής.</string>
 </resources>

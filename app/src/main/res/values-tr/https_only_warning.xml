@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Güvenli bağlantı yok</string>
     <string name="https_only_warning_protection">HTTPS koruması</string>
-    <string name="https_only_warning_explanation">Candy bu sayfayı HTTPS üzerinden açamadı. HTTP bağlantısı şifrelenmez.</string>
+    <string name="https_only_warning_explanation">Koi bu sayfayı HTTPS üzerinden açamadı. HTTP bağlantısı şifrelenmez.</string>
     <string name="https_only_warning_risk">Ağdaki diğer kişiler verilerinizi okuyabilir veya değiştirebilir.</string>
     <string name="https_only_warning_back">Geri dön</string>
     <string name="https_only_warning_retry">HTTPS bağlantısını yeniden dene</string>

@@ -8,8 +8,8 @@
     <string name="settings_gesture_private_tabs_group">Privata flikar</string>
     <string name="settings_gesture_link_actions_group">Länkåtgärder</string>
     <string name="settings_player_disabled_explanation">Fortsätt använda webbplatsens spelare.</string>
-    <string name="settings_player_button_fullscreen_explanation">En knapp öppnar upptäckta videor i helskärm i Candy Player.</string>
+    <string name="settings_player_button_fullscreen_explanation">En knapp öppnar upptäckta videor i helskärm i Koi Player.</string>
     <string name="settings_player_button_inline_explanation">En knapp startar videon på sidan. Helskärm är fortfarande tillgängligt i spelaren.</string>
-    <string name="settings_player_fullscreen_explanation">Använd Candy Player när webbplatsen öppnar en video i helskärm.</string>
-    <string name="settings_player_automatic_explanation">Öppna Candy Player automatiskt när en spelbar video upptäcks.</string>
+    <string name="settings_player_fullscreen_explanation">Använd Koi Player när webbplatsen öppnar en video i helskärm.</string>
+    <string name="settings_player_automatic_explanation">Öppna Koi Player automatiskt när en spelbar video upptäcks.</string>
 </resources>

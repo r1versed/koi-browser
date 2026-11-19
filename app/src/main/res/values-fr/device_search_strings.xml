@@ -2,7 +2,7 @@
 <resources>
     <string name="device_search_title">Recherche sur l’appareil</string>
     <string name="device_search_settings_summary">Choisir les favoris et les articles enregistrés pour la recherche Android</string>
-    <string name="device_search_summary">"Choisissez des signets individuels et des articles enregistrés à partager avec la recherche système. L'historique de navigation et le texte de l'article restent dans Candy. Le contenu privé et les profils protégés sont exclus."</string>
+    <string name="device_search_summary">"Choisissez des signets individuels et des articles enregistrés à partager avec la recherche système. L'historique de navigation et le texte de l'article restent dans Koi. Le contenu privé et les profils protégés sont exclus."</string>
     <string name="device_search_enable">Partager avec la recherche sur l’appareil</string>
     <string name="device_search_enable_summary">"Seuls les éléments sélectionnés sont publiés. Désactiver cette option les supprime de l'index."</string>
     <string name="device_search_launcher_note">Les résultats apparaissent uniquement dans les lanceurs ou les applications de recherche système prenant en charge Android AppSearch. La disponibilité dépend de votre appareil.</string>
@@ -13,5 +13,5 @@
     <string name="device_search_saving">Mise à jour de la recherche sur l’appareil…</string>
     <string name="device_search_failed">Impossible de mettre à jour la recherche sur l’appareil. Essayez à nouveau de modifier la sélection.</string>
     <string name="device_search_item_unavailable">"Cet élément n'est plus partagé ni disponible."</string>
-    <string name="device_search_open">Ouvrir dans Candy</string>
+    <string name="device_search_open">Ouvrir dans Koi</string>
 </resources>

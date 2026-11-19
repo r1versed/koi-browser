@@ -1,7 +1,7 @@
 <resources>
     <string name="https_only_warning_title">无法建立安全连接</string>
     <string name="https_only_warning_protection">HTTPS 保护</string>
-    <string name="https_only_warning_explanation">Candy 无法通过 HTTPS 打开此页面。HTTP 连接不会加密。</string>
+    <string name="https_only_warning_explanation">Koi 无法通过 HTTPS 打开此页面。HTTP 连接不会加密。</string>
     <string name="https_only_warning_risk">网络中的其他人可能读取或更改你的数据。</string>
     <string name="https_only_warning_back">返回</string>
     <string name="https_only_warning_retry">重试 HTTPS</string>

@@ -2,7 +2,7 @@
 <resources>
     <string name="device_search_title">ค้นหาอุปกรณ์</string>
     <string name="device_search_settings_summary">เลือกบุ๊กมาร์กและบทความที่บันทึกไว้สำหรับการค้นหาของ Android</string>
-    <string name="device_search_summary">เลือกบุ๊กมาร์กและบทความที่บันทึกไว้แต่ละรายการเพื่อแชร์กับการค้นหาของระบบ ประวัติการเรียกดูและข้อความบทความยังคงอยู่ใน Candy ไม่รวมเนื้อหาส่วนตัวและโปรไฟล์ที่ได้รับการป้องกัน</string>
+    <string name="device_search_summary">เลือกบุ๊กมาร์กและบทความที่บันทึกไว้แต่ละรายการเพื่อแชร์กับการค้นหาของระบบ ประวัติการเรียกดูและข้อความบทความยังคงอยู่ใน Koi ไม่รวมเนื้อหาส่วนตัวและโปรไฟล์ที่ได้รับการป้องกัน</string>
     <string name="device_search_enable">แบ่งปันด้วยการค้นหาอุปกรณ์</string>
     <string name="device_search_enable_summary">เผยแพร่เฉพาะรายการที่เลือกเท่านั้น การปิดตัวเลือกนี้จะลบออกจากดัชนี</string>
     <string name="device_search_launcher_note">ผลลัพธ์จะปรากฏในตัวเรียกใช้งานหรือแอปค้นหาระบบที่รองรับ Android AppSearch เท่านั้น ความพร้อมใช้งานขึ้นอยู่กับอุปกรณ์ของคุณ</string>
@@ -13,5 +13,5 @@
     <string name="device_search_saving">กำลังอัปเดตการค้นหาอุปกรณ์...</string>
     <string name="device_search_failed">ไม่สามารถอัปเดตการค้นหาอุปกรณ์ได้ ลองเปลี่ยนการเลือกอีกครั้ง</string>
     <string name="device_search_item_unavailable">รายการนี้ไม่ได้แชร์หรือพร้อมใช้งานอีกต่อไป</string>
-    <string name="device_search_open">เปิดใน Candy</string>
+    <string name="device_search_open">เปิดใน Koi</string>
 </resources>

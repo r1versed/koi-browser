@@ -2,19 +2,19 @@
 <resources>
     <string name="guest_bubble_title">Guest Bubble</string>
     <string name="guest_bubble_start">Έναρξη Guest Bubble</string>
-    <string name="guest_bubble_settings_summary">Πατήστε παρατεταμένα το κουμπί προσθήκης προφίλ (+) για να δανείσετε το Candy, κρατώντας κλειδωμένα τα προφίλ σας.</string>
+    <string name="guest_bubble_settings_summary">Πατήστε παρατεταμένα το κουμπί προσθήκης προφίλ (+) για να δανείσετε το Koi, κρατώντας κλειδωμένα τα προφίλ σας.</string>
     <string name="guest_bubble_requires_profiles">Ενεργοποιήστε τα προφίλ για να χρησιμοποιήσετε το Guest Bubble.</string>
     <string name="guest_bubble_requires_authentication">Ρυθμίστε βιομετρικό έλεγχο ή κλείδωμα οθόνης συσκευής για να χρησιμοποιήσετε το Guest Bubble.</string>
-    <string name="guest_bubble_tutorial_title">Δανείστε το Candy με το Guest Bubble</string>
+    <string name="guest_bubble_tutorial_title">Δανείστε το Koi με το Guest Bubble</string>
     <string name="guest_bubble_tutorial_start">1. Ανοίξτε την επισκόπηση καρτελών και πατήστε παρατεταμένα το κουμπί προσθήκης προφίλ (+) για να ξεκινήσετε μια συνεδρία επισκέπτη.</string>
     <string name="guest_bubble_tutorial_isolation">2. Δώστε το τηλέφωνο στον επισκέπτη. Τα προφίλ σας παραμένουν κλειδωμένα και ο επισκέπτης περιηγείται σε ξεχωριστή προσωρινή συνεδρία.</string>
-    <string name="guest_bubble_tutorial_exit">3. Τερματίστε το Guest Bubble και επιβεβαιώστε την ταυτότητά σας με βιομετρικό έλεγχο ή το κλείδωμα οθόνης της συσκευής. Το Candy διαγράφει τη συνεδρία επισκέπτη πριν επιστρέψει στα προφίλ σας.</string>
-    <string name="guest_bubble_tutorial_limits">Το Guest Bubble προστατεύει μόνο το Candy. Οι άλλες εφαρμογές και η συσκευή σας Android παραμένουν προσβάσιμες. Οι λήψεις και οι εξαγωγές δεν είναι διαθέσιμες στη συνεδρία επισκέπτη.</string>
+    <string name="guest_bubble_tutorial_exit">3. Τερματίστε το Guest Bubble και επιβεβαιώστε την ταυτότητά σας με βιομετρικό έλεγχο ή το κλείδωμα οθόνης της συσκευής. Το Koi διαγράφει τη συνεδρία επισκέπτη πριν επιστρέψει στα προφίλ σας.</string>
+    <string name="guest_bubble_tutorial_limits">Το Guest Bubble προστατεύει μόνο το Koi. Οι άλλες εφαρμογές και η συσκευή σας Android παραμένουν προσβάσιμες. Οι λήψεις και οι εξαγωγές δεν είναι διαθέσιμες στη συνεδρία επισκέπτη.</string>
     <string name="guest_bubble_activate">Ενεργοποίηση</string>
     <string name="guest_bubble_auth_title">Επιστροφή στα προφίλ σας</string>
-    <string name="guest_bubble_auth_subtitle">Επιβεβαιώστε την ταυτότητά σας για να διαγράψετε τη συνεδρία επισκέπτη και να ξεκλειδώσετε το Candy.</string>
+    <string name="guest_bubble_auth_subtitle">Επιβεβαιώστε την ταυτότητά σας για να διαγράψετε τη συνεδρία επισκέπτη και να ξεκλειδώσετε το Koi.</string>
     <string name="guest_bubble_end">Τερματισμός συνεδρίας επισκέπτη</string>
-    <string name="guest_bubble_start_failed">Το Candy δεν μπόρεσε να προετοιμάσει τη συνεδρία επισκέπτη. Τα προφίλ σας παραμένουν κλειδωμένα.</string>
+    <string name="guest_bubble_start_failed">Το Koi δεν μπόρεσε να προετοιμάσει τη συνεδρία επισκέπτη. Τα προφίλ σας παραμένουν κλειδωμένα.</string>
     <string name="guest_bubble_retry">Δοκιμάστε ξανά</string>
     <string name="guest_bubble_welcome">Περιηγηθείτε σαν στο σπίτι σας</string>
     <string name="guest_bubble_private_session">Περιηγηθείτε στη δική σας προσωρινή συνεδρία. Τα προφίλ και οι συνδέσεις σε λογαριασμούς του κατόχου παραμένουν κλειδωμένα.</string>

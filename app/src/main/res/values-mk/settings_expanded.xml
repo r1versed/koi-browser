@@ -8,8 +8,8 @@
     <string name="settings_gesture_private_tabs_group">Приватни јазичиња</string>
     <string name="settings_gesture_link_actions_group">Дејства со врски</string>
     <string name="settings_player_disabled_explanation">Продолжете да го користите плеерот на веб-страницата.</string>
-    <string name="settings_player_button_fullscreen_explanation">Копче ги отвора откриените видеа на цел екран во Candy Player.</string>
+    <string name="settings_player_button_fullscreen_explanation">Копче ги отвора откриените видеа на цел екран во Koi Player.</string>
     <string name="settings_player_button_inline_explanation">Копче го стартува видеото во страницата. Целосниот екран останува достапен во плеерот.</string>
-    <string name="settings_player_fullscreen_explanation">Користете Candy Player кога веб-страницата отвора видео на цел екран.</string>
-    <string name="settings_player_automatic_explanation">Автоматски отворете Candy Player кога ќе се открие видео што може да се репродуцира.</string>
+    <string name="settings_player_fullscreen_explanation">Користете Koi Player кога веб-страницата отвора видео на цел екран.</string>
+    <string name="settings_player_automatic_explanation">Автоматски отворете Koi Player кога ќе се открие видео што може да се репродуцира.</string>
 </resources>

@@ -2,19 +2,19 @@
 <resources>
     <string name="guest_bubble_title">Guest Bubble</string>
     <string name="guest_bubble_start">Стартувај Guest Bubble</string>
-    <string name="guest_bubble_settings_summary">Долго притиснете го копчето + за профили за да го позајмите Candy додека вашите профили остануваат заклучени.</string>
+    <string name="guest_bubble_settings_summary">Долго притиснете го копчето + за профили за да го позајмите Koi додека вашите профили остануваат заклучени.</string>
     <string name="guest_bubble_requires_profiles">Овозможете профили за да користите Guest Bubble.</string>
     <string name="guest_bubble_requires_authentication">Поставете биометриска проверка или заклучување на екранот на уредот за да користите Guest Bubble.</string>
-    <string name="guest_bubble_tutorial_title">Позајмете го Candy со Guest Bubble</string>
+    <string name="guest_bubble_tutorial_title">Позајмете го Koi со Guest Bubble</string>
     <string name="guest_bubble_tutorial_start">1. Отворете го прегледот на картички и долго притиснете го копчето + за профили за да започнете гостинска сесија.</string>
     <string name="guest_bubble_tutorial_isolation">2. Дајте му го телефонот на гостинот. Вашите профили остануваат заклучени; гостинот прелистува во посебна привремена сесија.</string>
-    <string name="guest_bubble_tutorial_exit">3. Завршете го Guest Bubble и потврдете со биометриска проверка или заклучувањето на екранот на уредот. Candy ја брише гостинската сесија на прелистување пред да се вратите на вашите профили.</string>
-    <string name="guest_bubble_tutorial_limits">Guest Bubble го штити само Candy. Другите апликации и вашиот уред со Android остануваат достапни. Преземањата и извозите не се достапни во гостинската сесија.</string>
+    <string name="guest_bubble_tutorial_exit">3. Завршете го Guest Bubble и потврдете со биометриска проверка или заклучувањето на екранот на уредот. Koi ја брише гостинската сесија на прелистување пред да се вратите на вашите профили.</string>
+    <string name="guest_bubble_tutorial_limits">Guest Bubble го штити само Koi. Другите апликации и вашиот уред со Android остануваат достапни. Преземањата и извозите не се достапни во гостинската сесија.</string>
     <string name="guest_bubble_activate">Активирај</string>
     <string name="guest_bubble_auth_title">Вратете се на вашите профили</string>
-    <string name="guest_bubble_auth_subtitle">Потврдете го вашиот идентитет за да ја избришете гостинската сесија и да го отклучите Candy.</string>
+    <string name="guest_bubble_auth_subtitle">Потврдете го вашиот идентитет за да ја избришете гостинската сесија и да го отклучите Koi.</string>
     <string name="guest_bubble_end">Заврши ја гостинската сесија</string>
-    <string name="guest_bubble_start_failed">Candy не можеше да ја подготви гостинската сесија. Вашите профили остануваат заклучени.</string>
+    <string name="guest_bubble_start_failed">Koi не можеше да ја подготви гостинската сесија. Вашите профили остануваат заклучени.</string>
     <string name="guest_bubble_retry">Обиди се повторно</string>
     <string name="guest_bubble_welcome">Чувствувајте се како дома</string>
     <string name="guest_bubble_private_session">Прелистувајте во ваша привремена сесија. Профилите и најавите на сопственикот остануваат заклучени.</string>

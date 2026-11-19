@@ -3,7 +3,7 @@
     <string name="site_widget_name">Websäit crop (Prototyp)</string>
     <string name="site_widget_name_square">Websäit crop 4×4 (Prototyp)</string>
     <string name="site_widget_description">Halt e gewielte Websäitgebitt op Ärem Heembildschierm</string>
-    <string name="site_widget_empty">Öffnen eng Säit an Candy, tippt dann hei fir e Gebitt ze wielen.</string>
+    <string name="site_widget_empty">Öffnen eng Säit an Koi, tippt dann hei fir e Gebitt ze wielen.</string>
     <string name="site_widget_open">Opzemaachen Säit</string>
     <string name="site_widget_refresh">Erfrëschen</string>
     <string name="site_widget_unavailable">Dës Säit kann net als Widget gespäichert ginn. Benotzt e regelméissegen, ongeschützte lokale Profil.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 x4</string>
     <string name="site_widget_editor_size">Auswiel Gréisst</string>
     <string name="site_widget_editor_pin">Füügt op den Heembildschierm</string>
-    <string name="site_widget_editor_interaction_hint">"De Widget weist e Schnappschëss. Tippen op fir d'Säit op Candy opzemaachen."</string>
+    <string name="site_widget_editor_interaction_hint">"De Widget weist e Schnappschëss. Tippen op fir d'Säit op Koi opzemaachen."</string>
     <string name="site_widget_private_unavailable">Websäit Widgets sinn net op private Tabs verfügbar.</string>
     <string name="site_widget_capture_failed">Konnt dës Säit net erfaassen. Probéiert nach eng Kéier wann et fäerdeg ass ze lueden.</string>
-    <string name="site_widget_pin_unavailable">Dëse Launcher ënnerstëtzt net Widgets direkt derbäi. Füügt den Candy Websäit Widget vu sengem Widget Picker.</string>
+    <string name="site_widget_pin_unavailable">Dëse Launcher ënnerstëtzt net Widgets direkt derbäi. Füügt den Koi Websäit Widget vu sengem Widget Picker.</string>
     <string name="site_widget_save_failed">Konnt dëse Widget net späicheren. Probéiert w.e.g. nach eng Kéier.</string>
     <string name="site_widget_reselect">Crop änneren</string>
     <string name="site_widget_refresh_failed">Erfrëschen ass gescheitert. De leschte Schnappschëss gëtt nach ëmmer gewisen.</string>

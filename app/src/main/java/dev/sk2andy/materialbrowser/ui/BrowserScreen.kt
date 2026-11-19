@@ -859,9 +859,8 @@ internal fun BrowserScreen(
                 createTabAndConfirm(isIncognito = isIncognito, emitHaptic = true)
             ) {
                 addressValue = TextFieldValue()
-                addressEditorVisible = true
+                addressEditorVisible = false
                 highlightedSuggestionIndex = -1
-                addressFocusNonce++
             }
         }
         if (addressEditorVisible || tabOverviewVisible) {
@@ -1773,6 +1772,7 @@ internal fun BrowserScreen(
             }
         }
 
+        KoiMediaOverlay(pageUrl = controller.selectedTab.url, hidden = hideBrowserChrome, incognito = controller.selectedTab.isIncognito)
         controller.findInPageState
             ?.takeIf { firefoxExtensionOptionsTitle == null && !hideBrowserChrome }
             ?.let { findState ->
@@ -2207,6 +2207,7 @@ internal fun BrowserScreen(
         )
 
         BrowserSettingsOverlay(
+            onEditHomeWallpaper = { openProfileWallpaperEditor(controller.activeProfileId, ProfileWallpaperTarget.NewTab) },
             controller = controller,
             visible = settingsVisible,
             backEnabled = feedsEntry == null,

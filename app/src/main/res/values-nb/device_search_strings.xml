@@ -2,7 +2,7 @@
 <resources>
     <string name="device_search_title">Enhetssøk</string>
     <string name="device_search_settings_summary">Velg bokmerker og lagrede artikler for Android-søk</string>
-    <string name="device_search_summary">Velg individuelle bokmerker og lagrede artikler for å dele med systemsøk. Nettleserhistorikk og artikkeltekst forblir i Candy. Privat innhold og beskyttede profiler er ekskludert.</string>
+    <string name="device_search_summary">Velg individuelle bokmerker og lagrede artikler for å dele med systemsøk. Nettleserhistorikk og artikkeltekst forblir i Koi. Privat innhold og beskyttede profiler er ekskludert.</string>
     <string name="device_search_enable">Del med enhetssøk</string>
     <string name="device_search_enable_summary">Kun utvalgte elementer publiseres. Hvis du slår av dette, fjernes de fra indeksen.</string>
     <string name="device_search_launcher_note">Resultatene vises bare i oppstartere eller systemsøkeapper som støtter Android AppSearch. Tilgjengelighet avhenger av enheten din.</string>
@@ -13,5 +13,5 @@
     <string name="device_search_saving">Oppdaterer enhetssøk …</string>
     <string name="device_search_failed">Enhetssøk kunne ikke oppdateres. Prøv å endre valget på nytt.</string>
     <string name="device_search_item_unavailable">Dette elementet er ikke lenger delt eller tilgjengelig.</string>
-    <string name="device_search_open">Åpne i Candy</string>
+    <string name="device_search_open">Åpne i Koi</string>
 </resources>

@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Veličina odabira</string>
     <string name="site_widget_editor_pin">Dodaj na početni ekran</string>
-    <string name="site_widget_editor_interaction_hint">Vidžet prikazuje snimak. Dodirnite ga da otvorite stranicu u Candy.</string>
+    <string name="site_widget_editor_interaction_hint">Vidžet prikazuje snimak. Dodirnite ga da otvorite stranicu u Koi.</string>
     <string name="site_widget_private_unavailable">Vidžeti web stranice nisu dostupni u privatnim karticama.</string>
     <string name="site_widget_capture_failed">Nije moguće snimiti ovu stranicu. Pokušajte ponovo kada završi učitavanje.</string>
-    <string name="site_widget_pin_unavailable">Ovaj pokretač ne podržava direktno dodavanje vidžeta. Dodajte vidžet web-stranice Candy iz njegovog birača vidžeta.</string>
+    <string name="site_widget_pin_unavailable">Ovaj pokretač ne podržava direktno dodavanje vidžeta. Dodajte vidžet web-stranice Koi iz njegovog birača vidžeta.</string>
     <string name="site_widget_save_failed">Nije moguće sačuvati ovaj vidžet. Molimo pokušajte ponovo.</string>
     <string name="site_widget_reselect">Uredi izrezivanje</string>
     <string name="site_widget_refresh_failed">Osvježavanje nije uspjelo. Posljednji snimak je i dalje prikazan.</string>

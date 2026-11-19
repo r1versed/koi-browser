@@ -3,7 +3,7 @@
     <string name="site_widget_name">Обрезка сайта (прототип)</string>
     <string name="site_widget_name_square">Кадрирование сайта 4×4 (прототип)</string>
     <string name="site_widget_description">Сохраняйте выбранную область веб-сайта на главном экране</string>
-    <string name="site_widget_empty">Откройте страницу в Candy, затем нажмите здесь, чтобы выбрать область.</string>
+    <string name="site_widget_empty">Откройте страницу в Koi, затем нажмите здесь, чтобы выбрать область.</string>
     <string name="site_widget_open">Открыть страницу</string>
     <string name="site_widget_refresh">Обновить</string>
     <string name="site_widget_unavailable">Эту страницу нельзя сохранить как виджет. Используйте обычный незащищенный локальный профиль.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Размер выбора</string>
     <string name="site_widget_editor_pin">Добавить на главный экран</string>
-    <string name="site_widget_editor_interaction_hint">Виджет показывает снимок. Коснитесь его, чтобы открыть страницу в Candy.</string>
+    <string name="site_widget_editor_interaction_hint">Виджет показывает снимок. Коснитесь его, чтобы открыть страницу в Koi.</string>
     <string name="site_widget_private_unavailable">Виджеты сайта недоступны в личных вкладках.</string>
     <string name="site_widget_capture_failed">Не удалось захватить эту страницу. Попробуйте еще раз, когда загрузка закончится.</string>
-    <string name="site_widget_pin_unavailable">Этот лаунчер не поддерживает добавление виджетов напрямую. Добавьте виджет веб-сайта Candy из окна выбора виджетов.</string>
+    <string name="site_widget_pin_unavailable">Этот лаунчер не поддерживает добавление виджетов напрямую. Добавьте виджет веб-сайта Koi из окна выбора виджетов.</string>
     <string name="site_widget_save_failed">Не удалось сохранить этот виджет. Пожалуйста, попробуйте еще раз.</string>
     <string name="site_widget_reselect">Редактировать обрезку</string>
     <string name="site_widget_refresh_failed">Обновить не удалось. Последний снимок все еще отображается.</string>

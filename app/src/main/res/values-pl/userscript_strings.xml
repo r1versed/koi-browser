@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Dostosuj pasujące strony za pomocą Toppings</string>
     <string name="userscript_risk_title">Używaj tylko zaufanych Toppings</string>
     <string name="userscript_risk_body">Kod Topping może odczytywać i zmieniać treść stron oraz dane sesji w pasujących witrynach, działać w imieniu zalogowanego użytkownika i spowalniać renderowanie stron. Dodawaj tylko Toppings z zaufanych źródeł.</string>
-    <string name="userscript_runtime_unsupported">Nie udało się uruchomić hosta Toppings w Gecko. Uruchom ponownie lub zaktualizuj Candy, aby włączyć Toppings.</string>
+    <string name="userscript_runtime_unsupported">Nie udało się uruchomić hosta Toppings w Gecko. Uruchom ponownie lub zaktualizuj Koi, aby włączyć Toppings.</string>
     <string name="userscript_scope_title">Zanim dodasz Topping</string>
     <string name="userscript_regular_tabs_only">Toppings działają tylko w zwykłych kartach. Nigdy nie działają w prywatnych kartach.</string>
     <string name="userscript_no_gm_apis">Obsługiwany jest tylko standardowy JavaScript strony. Interfejsy GM_* i rozszerzeń są niedostępne.</string>
@@ -52,7 +52,7 @@
     <string name="userscript_import_error_empty">Ten plik jest pusty.</string>
     <string name="userscript_import_error_too_large">Ten plik przekracza limit Topping wynoszący %1$d KB.</string>
     <string name="userscript_import_error_invalid_utf8">Ten plik nie jest prawidłowym tekstem UTF-8.</string>
-    <string name="userscript_import_error_unreadable">Candy nie może odczytać tego pliku.</string>
+    <string name="userscript_import_error_unreadable">Koi nie może odczytać tego pliku.</string>
     <string name="userscript_import_error_invalid_metadata">Blok metadanych skryptu użytkownika jest nieobecny lub nieprawidłowy.</string>
     <string name="userscript_import_error_missing_name">Blok metadanych wymaga dokładnie jednego @name.</string>
     <string name="userscript_import_error_name_too_long">@name może mieć najwyżej %1$d znaków i nie może zawierać znaków sterujących.</string>
@@ -64,15 +64,15 @@
     <string name="userscript_import_error_unsupported_grant">Ten Topping żąda nieobsługiwanego uprawnienia @grant lub @connect.</string>
     <string name="userscript_import_error_invalid_dependency">Zależność @require lub @resource ma nieprawidłową nazwę, adres HTTPS lub sumę kontrolną integralności.</string>
     <string name="userscript_import_error_too_many_dependencies">Ten Topping deklaruje zbyt wiele zależności @require lub @resource.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy nie może bezpiecznie pobrać zależności @require lub @resource.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi nie może bezpiecznie pobrać zależności @require lub @resource.</string>
     <string name="userscript_import_error_dependency_too_large">Zależność @require lub @resource przekracza limit pobierania.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Zależność @require nie jest prawidłowym tekstem UTF-8.</string>
     <string name="userscript_import_error_dependency_integrity">Zależność @require lub @resource nie pasuje do swojej sumy kontrolnej integralności.</string>
-    <string name="userscript_import_error_save_failed">Candy odczytała ten Topping, ale nie może go zapisać.</string>
+    <string name="userscript_import_error_save_failed">Koi odczytała ten Topping, ale nie może go zapisać.</string>
     <string name="userscript_import_success">Zaimportowano %1$s.</string>
     <string name="topping_discover">Odkryj Toppings</string>
     <string name="topping_catalog_title">Odkryj Toppings</string>
-    <string name="topping_catalog_subtitle">Ulepszenia społeczności z katalogu Candy</string>
+    <string name="topping_catalog_subtitle">Ulepszenia społeczności z katalogu Koi</string>
     <string name="topping_catalog_loading">Wczytywanie Toppings…</string>
     <string name="topping_catalog_error_title">Toppings niedostępne</string>
     <string name="topping_catalog_error_body">Nie udało się wczytać katalogu. Sprawdź połączenie i spróbuj ponownie.</string>

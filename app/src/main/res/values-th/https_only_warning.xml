@@ -1,7 +1,7 @@
 <resources>
     <string name="https_only_warning_title">ไม่มีการเชื่อมต่อที่ปลอดภัย</string>
     <string name="https_only_warning_protection">การป้องกัน HTTPS</string>
-    <string name="https_only_warning_explanation">Candy ไม่สามารถเปิดหน้านี้ผ่าน HTTPS ได้ การเชื่อมต่อ HTTP จะไม่เข้ารหัส</string>
+    <string name="https_only_warning_explanation">Koi ไม่สามารถเปิดหน้านี้ผ่าน HTTPS ได้ การเชื่อมต่อ HTTP จะไม่เข้ารหัส</string>
     <string name="https_only_warning_risk">ผู้อื่นในเครือข่ายอาจอ่านหรือเปลี่ยนแปลงข้อมูลของคุณได้</string>
     <string name="https_only_warning_back">ย้อนกลับ</string>
     <string name="https_only_warning_retry">ลอง HTTPS อีกครั้ง</string>

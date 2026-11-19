@@ -5,7 +5,7 @@
     <string name="settings_home_userscripts_summary">Toppings と一致するページをカスタマイズする</string>
     <string name="userscript_risk_title">信頼できる Toppings のみを使用してください</string>
     <string name="userscript_risk_body">Topping のコードは、対象サイトのページ内容やセッションデータを読み取ったり変更したり、ログイン中のユーザーとして操作したり、ページの描画を遅くしたりできます。信頼できる提供元の Toppings のみを追加してください。</string>
-    <string name="userscript_runtime_unsupported">Gecko Topping ホストが起動できませんでした. Toppings を有効にするため,再起動または更新 Candy</string>
+    <string name="userscript_runtime_unsupported">Gecko Topping ホストが起動できませんでした. Toppings を有効にするため,再起動または更新 Koi</string>
     <string name="userscript_scope_title">Topping を追加する前に</string>
     <string name="userscript_regular_tabs_only">Toppings は通常のタブでのみ実行されます。シークレットタブでは実行されません。</string>
     <string name="userscript_no_gm_apis">標準のページ JavaScript のみをサポートします。GM_* API と拡張機能 API は利用できません。</string>
@@ -48,7 +48,7 @@
     <string name="userscript_import_error_empty">このファイルは空です.</string>
     <string name="userscript_import_error_too_large">このファイルは %1$d KB Topping 制限を超えています.</string>
     <string name="userscript_import_error_invalid_utf8">このファイルは有効な UTF-8 テキストではありません.</string>
-    <string name="userscript_import_error_unreadable">Candy はこのファイルを読み取れませんでした.</string>
+    <string name="userscript_import_error_unreadable">Koi はこのファイルを読み取れませんでした.</string>
     <string name="userscript_import_error_invalid_metadata">ユーザスクリプトメタデータブロックが欠落または不具合です.</string>
     <string name="userscript_import_error_missing_name">メタデータブロックには @name が一つだけ必要です。</string>
     <string name="userscript_import_error_name_too_long">@name は %1$d 文字以内で、制御文字を含めることはできません。</string>
@@ -60,15 +60,15 @@
     <string name="userscript_import_error_unsupported_grant">この Topping は未対応の @grant または @connect 権限を要求しています。</string>
     <string name="userscript_import_error_invalid_dependency">@require または @resource の依存関係の名前、HTTPS URL、整合性ハッシュが無効です。</string>
     <string name="userscript_import_error_too_many_dependencies">この Topping は,あまりにも多くの @require または @resource 依存関係を宣言します.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy は @require または @resource の依存関係を安全にダウンロードできませんでした.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi は @require または @resource の依存関係を安全にダウンロードできませんでした.</string>
     <string name="userscript_import_error_dependency_too_large">@require または @resource の依存性はダウンロード制限を超えています.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">@require依存性は有効な UTF-8 テキストではありません.</string>
     <string name="userscript_import_error_dependency_integrity">@require または @resource の依存関係が整合性ハッシュと一致しません。</string>
-    <string name="userscript_import_error_save_failed">Candy は Topping を読みましたが,保存できません.</string>
+    <string name="userscript_import_error_save_failed">Koi は Topping を読みましたが,保存できません.</string>
     <string name="userscript_import_success">%1$sは輸入された.</string>
     <string name="topping_discover">発見 Toppings</string>
     <string name="topping_catalog_title">発見 Toppings</string>
-    <string name="topping_catalog_subtitle">Candy カタログからコミュニティの強化</string>
+    <string name="topping_catalog_subtitle">Koi カタログからコミュニティの強化</string>
     <string name="topping_catalog_loading">ロードする Toppings...</string>
     <string name="topping_catalog_error_title">Toppings 入手できない</string>
     <string name="topping_catalog_error_body">カタログは読み込めない. 接続を確認して再試してください.</string>

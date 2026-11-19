@@ -29,7 +29,7 @@ internal fun AppUpdatePrompt(
     visible: Boolean,
     onOpenReleaseNotes: (String) -> Boolean,
 ) {
-    var updateCheckCompleted by rememberSaveable { mutableStateOf(false) }
+    var updateCheckCompleted by rememberSaveable { mutableStateOf(true) }
     var availableUpdateVersion by rememberSaveable { mutableStateOf<String?>(null) }
     var availableUpdateUrl by rememberSaveable { mutableStateOf<String?>(null) }
     var availableUpdateFileName by rememberSaveable { mutableStateOf<String?>(null) }

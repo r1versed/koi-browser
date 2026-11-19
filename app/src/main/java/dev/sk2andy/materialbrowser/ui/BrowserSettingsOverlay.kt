@@ -47,6 +47,7 @@ import kotlin.math.roundToInt
 
 @Composable
 internal fun BrowserSettingsOverlay(
+    onEditHomeWallpaper: () -> Unit = {},
     controller: BrowserController,
     visible: Boolean,
     backEnabled: Boolean = true,
@@ -163,6 +164,7 @@ internal fun BrowserSettingsOverlay(
         },
     ) {
         SettingsScreen(
+            onEditHomeWallpaper = onEditHomeWallpaper,
             backEnabled = backEnabled,
             onDiscoverFeeds = onDiscoverFeeds,
             onOpenDeviceSearch = {

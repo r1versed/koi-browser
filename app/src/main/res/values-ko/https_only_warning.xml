@@ -1,7 +1,7 @@
 <resources>
     <string name="https_only_warning_title">보안 연결을 사용할 수 없습니다</string>
     <string name="https_only_warning_protection">HTTPS 보호</string>
-    <string name="https_only_warning_explanation">Candy가 이 페이지를 HTTPS로 열지 못했습니다. HTTP 연결은 암호화되지 않습니다.</string>
+    <string name="https_only_warning_explanation">Koi가 이 페이지를 HTTPS로 열지 못했습니다. HTTP 연결은 암호화되지 않습니다.</string>
     <string name="https_only_warning_risk">네트워크의 다른 사용자가 데이터를 읽거나 변경할 수 있습니다.</string>
     <string name="https_only_warning_back">돌아가기</string>
     <string name="https_only_warning_retry">HTTPS 다시 시도</string>

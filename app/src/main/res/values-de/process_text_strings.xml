@@ -1,6 +1,6 @@
 <resources>
-    <string name="process_text_research">In Candy recherchieren</string>
-    <string name="process_text_read_aloud">Mit Candy vorlesen</string>
+    <string name="process_text_research">In Koi recherchieren</string>
+    <string name="process_text_read_aloud">Mit Koi vorlesen</string>
     <string name="process_text_choose_profile">Wähle das normale Profil für diese Suche.</string>
     <string name="process_text_research_profile">In %1$s recherchieren</string>
     <string name="process_text_no_profiles">Kein normales Profil verfügbar. Geschützte und synchronisierte Profile sind ausgeschlossen.</string>

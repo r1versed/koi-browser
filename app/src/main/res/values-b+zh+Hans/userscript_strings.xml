@@ -5,7 +5,7 @@
     <string name="settings_home_userscripts_summary">用 Toppings 定制匹配页面</string>
     <string name="userscript_risk_title">仅使用你信任的 Toppings</string>
     <string name="userscript_risk_body">Topping 代码可以在匹配的网站上读取或更改页面内容和会话数据，以已登录用户的身份操作，并减慢页面渲染。仅添加来自可信来源的 Toppings。</string>
-    <string name="userscript_runtime_unsupported">Gecko Topping 宿主无法启动。请重启或更新 Candy 以启用 Toppings。</string>
+    <string name="userscript_runtime_unsupported">Gecko Topping 宿主无法启动。请重启或更新 Koi 以启用 Toppings。</string>
     <string name="userscript_scope_title">在你添加一个Topping之前</string>
     <string name="userscript_regular_tabs_only">Toppings 仅在普通标签页中运行，绝不会在无痕标签页中运行。</string>
     <string name="userscript_no_gm_apis">仅支持标准页面 JavaScript。GM_* 和扩展 API 不可用。</string>
@@ -48,7 +48,7 @@
     <string name="userscript_import_error_empty">这个文件是空的.</string>
     <string name="userscript_import_error_too_large">这个文件超过了 %1$d KB Topping 的限制.</string>
     <string name="userscript_import_error_invalid_utf8">这个文件不是有效的 UTF-8 文本.</string>
-    <string name="userscript_import_error_unreadable">Candy无法读取此文件.</string>
+    <string name="userscript_import_error_unreadable">Koi无法读取此文件.</string>
     <string name="userscript_import_error_invalid_metadata">使用者脚本元数据块缺失或有缺陷.</string>
     <string name="userscript_import_error_missing_name">元数据块需要一个 @name.</string>
     <string name="userscript_import_error_name_too_long">@name 最多为 %1$d 个字符，且不得包含控制字符。</string>
@@ -60,15 +60,15 @@
     <string name="userscript_import_error_unsupported_grant">此 Topping 请求了不支持的 @grant 或 @connect 权限。</string>
     <string name="userscript_import_error_invalid_dependency">一个 @require 或 @resource 依赖关系具有无效的名称, HTTPS URL 或完整性哈希.</string>
     <string name="userscript_import_error_too_many_dependencies">这个 Topping 声明了太多 @require 或 @resource 的依赖.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy无法安全下载一个 @require 或 @resource 依赖.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi无法安全下载一个 @require 或 @resource 依赖.</string>
     <string name="userscript_import_error_dependency_too_large">一个 @require 或 @resource 依赖性超过下载限制.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">一个 @require 依赖不是有效的 UTF-8 文本.</string>
     <string name="userscript_import_error_dependency_integrity">一个 @require 或 @resource 依赖关系与其完整性哈希不匹配.</string>
-    <string name="userscript_import_error_save_failed">Candy 已读取此 Topping，但无法保存它。</string>
+    <string name="userscript_import_error_save_failed">Koi 已读取此 Topping，但无法保存它。</string>
     <string name="userscript_import_success">%1$s 已被导入.</string>
     <string name="topping_discover">发现 Toppings</string>
     <string name="topping_catalog_title">发现 Toppings</string>
-    <string name="topping_catalog_subtitle">Candy目录中的社区增强</string>
+    <string name="topping_catalog_subtitle">Koi目录中的社区增强</string>
     <string name="topping_catalog_loading">装载 Toppings...</string>
     <string name="topping_catalog_error_title">Toppings 不提供</string>
     <string name="topping_catalog_error_body">目录无法加载. 检查您的连接并再次尝试.</string>

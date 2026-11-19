@@ -1,0 +1,8 @@
+{
+  "manifest_version": 2,
+  "name": "Koi Media Sniffer",
+  "version": "1.0.0",
+  "browser_specific_settings": { "gecko": { "id": "candy-media-sniffer@sk2andy.dev" } },
+  "background": { "scripts": ["background.js"] },
+  "permissions": ["geckoViewAddons", "nativeMessaging", "webRequest", "<all_urls>"]
+}

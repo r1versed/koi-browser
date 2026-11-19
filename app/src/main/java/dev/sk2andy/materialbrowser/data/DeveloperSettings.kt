@@ -24,7 +24,7 @@ data class DeveloperSettings(
         BrowserChromeScrollDispatchMode.Default,
     val safeAreaLayoutQuietPeriodMillis: Int = DEFAULT_SAFE_AREA_LAYOUT_QUIET_PERIOD_MILLIS,
     val safeAreaRequiredFailureCount: Int = DEFAULT_SAFE_AREA_REQUIRED_FAILURE_COUNT,
-    val forceSafeAreaFallback: Boolean = false,
+    val forceSafeAreaFallback: Boolean = true,
     val geckoSafeAreaSettings: GeckoSafeAreaSettings = GeckoSafeAreaSettings(),
     val browserMemorySettings: BrowserMemorySettings = BrowserMemorySettings(),
     val appLoggingEnabled: Boolean = false,
@@ -32,6 +32,7 @@ data class DeveloperSettings(
     val geckoLoggingModules: String = GeckoLoggingRules.DEFAULT_MODULES,
 ) {
     fun normalized(): DeveloperSettings = copy(
+        forceSafeAreaFallback = true,
         geckoLoggingModules = GeckoLoggingRules.normalizedModules(geckoLoggingModules),
         geckoSafeAreaSettings = geckoSafeAreaSettings.normalized(),
         browserMemorySettings = browserMemorySettings.normalized(),

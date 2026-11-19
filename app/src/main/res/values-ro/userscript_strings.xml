@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Personalizați paginile care se potrivesc cu Toppings</string>
     <string name="userscript_risk_title">Folosiți numai Toppings în care aveți încredere</string>
     <string name="userscript_risk_body">Codul unui Topping poate citi sau modifica conținutul paginii și datele sesiunii pe site-urile corespunzătoare, poate acționa în numele utilizatorului autentificat și poate încetini afișarea paginii. Adăugați numai Toppings din surse în care aveți încredere.</string>
-    <string name="userscript_runtime_unsupported">Sistemul Gecko pentru Toppings nu a putut porni. Reporniți sau actualizați Candy pentru a activa Toppings.</string>
+    <string name="userscript_runtime_unsupported">Sistemul Gecko pentru Toppings nu a putut porni. Reporniți sau actualizați Koi pentru a activa Toppings.</string>
     <string name="userscript_scope_title">Înainte de a adăuga un Topping</string>
     <string name="userscript_regular_tabs_only">Toppings rulează numai în filele obișnuite. Nu rulează niciodată în filele private.</string>
     <string name="userscript_no_gm_apis">Este acceptat numai JavaScript standard al paginii. GM_* și API-urile extensiilor nu sunt disponibile.</string>
@@ -51,7 +51,7 @@
     <string name="userscript_import_error_empty">Dosarul ăsta e gol.</string>
     <string name="userscript_import_error_too_large">Acest fișier depășește limita %1$d KB Topping.</string>
     <string name="userscript_import_error_invalid_utf8">Acest fișier nu este valid UTF-8 text.</string>
-    <string name="userscript_import_error_unreadable">Candy nu a putut citi acest fişier.</string>
+    <string name="userscript_import_error_unreadable">Koi nu a putut citi acest fişier.</string>
     <string name="userscript_import_error_invalid_metadata">Blocul de metadate userscript lipsește sau este deformat.</string>
     <string name="userscript_import_error_missing_name">Blocul de metadate are nevoie de exact unul @name.</string>
     <string name="userscript_import_error_name_too_long">@name trebuie să conțină cel mult %1$d caractere și să nu conțină caractere de control.</string>
@@ -63,15 +63,15 @@
     <string name="userscript_import_error_unsupported_grant">Acest Topping solicită o permisiune @grant sau @connect nesuportată.</string>
     <string name="userscript_import_error_invalid_dependency">O dependență @require sau @resource are un nume invalid, HTTPS URL sau hash de integritate.</string>
     <string name="userscript_import_error_too_many_dependencies">Acest Topping declară prea multe @require sau @resource dependențe.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy nu a putut descărca în siguranță o dependență @require sau @resource.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi nu a putut descărca în siguranță o dependență @require sau @resource.</string>
     <string name="userscript_import_error_dependency_too_large">O dependență @require sau @resource depășește limita de descărcare.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">O dependență @require nu este validă UTF-8 text.</string>
     <string name="userscript_import_error_dependency_integrity">O dependență @require sau @resource nu se potrivește cu hash-ul integrității sale.</string>
-    <string name="userscript_import_error_save_failed">Candy a citit acest Topping dar nu a putut să-l salveze.</string>
+    <string name="userscript_import_error_save_failed">Koi a citit acest Topping dar nu a putut să-l salveze.</string>
     <string name="userscript_import_success">%1$s a fost importată.</string>
     <string name="topping_discover">Descoperă Toppings</string>
     <string name="topping_catalog_title">Descoperă Toppings</string>
-    <string name="topping_catalog_subtitle">Îmbunătățiri comunitare din catalogul Candy</string>
+    <string name="topping_catalog_subtitle">Îmbunătățiri comunitare din catalogul Koi</string>
     <string name="topping_catalog_loading">Se încarcă Toppings…</string>
     <string name="topping_catalog_error_title">Toppings nu este disponibil</string>
     <string name="topping_catalog_error_body">Nu s-a putut încărca catalogul. Verificaţi conexiunea şi încercaţi din nou.</string>

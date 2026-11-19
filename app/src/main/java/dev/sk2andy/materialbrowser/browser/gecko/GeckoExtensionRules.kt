@@ -125,5 +125,6 @@ internal object GeckoExtensionRules {
         CandyPrivacyHostContract.EXTENSION_ID,
         CandyToppingHostContract.EXTENSION_ID,
         GeckoSiteDataRuntime.EXTENSION_ID,
+        GeckoMediaSnifferRuntime.EXTENSION_ID,
     )
 }

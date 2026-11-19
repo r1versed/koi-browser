@@ -68,9 +68,9 @@ internal object GeckoViewInsetRules {
                         left = 0,
                         top = normalizedSafeArea.top,
                         right = 0,
-                        bottom = 0,
+                        bottom = normalizedSafeArea.bottom,
                     ),
-                    rendererSafeAreaOverride = normalizedSafeArea.copy(top = 0),
+                    rendererSafeAreaOverride = normalizedSafeArea.copy(top = 0, bottom = 0),
                     scrollableTopInsetPx = 0,
                 )
             } else {

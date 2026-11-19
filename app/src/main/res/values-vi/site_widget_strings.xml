@@ -3,7 +3,7 @@
     <string name="site_widget_name">Cắt trang web (nguyên mẫu)</string>
     <string name="site_widget_name_square">Trang web cắt 4x4 (nguyên mẫu)</string>
     <string name="site_widget_description">Giữ khu vực trang web đã chọn trên màn hình chính của bạn</string>
-    <string name="site_widget_empty">Mở một trang trong Candy, sau đó nhấn vào đây để chọn một khu vực.</string>
+    <string name="site_widget_empty">Mở một trang trong Koi, sau đó nhấn vào đây để chọn một khu vực.</string>
     <string name="site_widget_open">Mở trang</string>
     <string name="site_widget_refresh">Làm mới</string>
     <string name="site_widget_unavailable">Không thể lưu trang này dưới dạng tiện ích. Sử dụng hồ sơ cục bộ thông thường, không được bảo vệ.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Kích thước lựa chọn</string>
     <string name="site_widget_editor_pin">Thêm vào màn hình chính</string>
-    <string name="site_widget_editor_interaction_hint">Tiện ích hiển thị ảnh chụp nhanh. Nhấn vào nó để mở trang trong Candy.</string>
+    <string name="site_widget_editor_interaction_hint">Tiện ích hiển thị ảnh chụp nhanh. Nhấn vào nó để mở trang trong Koi.</string>
     <string name="site_widget_private_unavailable">Các tiện ích trang web không có sẵn trong các tab riêng tư.</string>
     <string name="site_widget_capture_failed">Không thể chụp trang này. Hãy thử lại khi tải xong.</string>
-    <string name="site_widget_pin_unavailable">Trình khởi chạy này không hỗ trợ thêm tiện ích trực tiếp. Thêm tiện ích trang web Candy từ bộ chọn tiện ích của nó.</string>
+    <string name="site_widget_pin_unavailable">Trình khởi chạy này không hỗ trợ thêm tiện ích trực tiếp. Thêm tiện ích trang web Koi từ bộ chọn tiện ích của nó.</string>
     <string name="site_widget_save_failed">Không thể lưu tiện ích này. Vui lòng thử lại.</string>
     <string name="site_widget_reselect">Chỉnh sửa cắt</string>
     <string name="site_widget_refresh_failed">Làm mới không thành công. Ảnh chụp nhanh cuối cùng vẫn được hiển thị.</string>

@@ -3,7 +3,7 @@
     <string name="site_widget_name">Обрезивање веб странице (прототип)</string>
     <string name="site_widget_name_square">Обрезивање веб странице 4×4 (прототип)</string>
     <string name="site_widget_description">Задржите изабрану област веб локације на почетном екрану</string>
-    <string name="site_widget_empty">Отворите страницу у Candy, а затим додирните овде да бисте изабрали област.</string>
+    <string name="site_widget_empty">Отворите страницу у Koi, а затим додирните овде да бисте изабрали област.</string>
     <string name="site_widget_open">Отвори страницу</string>
     <string name="site_widget_refresh">Освежи</string>
     <string name="site_widget_unavailable">Ова страница не може да се сачува као виџет. Користите обичан, незаштићени локални профил.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Величина избора</string>
     <string name="site_widget_editor_pin">Додај на почетни екран</string>
-    <string name="site_widget_editor_interaction_hint">Виџет приказује снимак. Додирните га да бисте отворили страницу у Candy.</string>
+    <string name="site_widget_editor_interaction_hint">Виџет приказује снимак. Додирните га да бисте отворили страницу у Koi.</string>
     <string name="site_widget_private_unavailable">Виџети веб странице нису доступни у приватним картицама.</string>
     <string name="site_widget_capture_failed">Није могуће снимити ову страницу. Покушајте поново када заврши учитавање.</string>
-    <string name="site_widget_pin_unavailable">Овај покретач не подржава директно додавање виџета. Додајте виџет за веб локацију Candy из његовог бирача виџета.</string>
+    <string name="site_widget_pin_unavailable">Овај покретач не подржава директно додавање виџета. Додајте виџет за веб локацију Koi из његовог бирача виџета.</string>
     <string name="site_widget_save_failed">Није могуће сачувати овај виџет. Покушајте поново.</string>
     <string name="site_widget_reselect">Уреди исецање</string>
     <string name="site_widget_refresh_failed">Освежавање није успело. Последњи снимак је и даље приказан.</string>

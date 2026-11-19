@@ -8,8 +8,8 @@
     <string name="settings_gesture_private_tabs_group">Privat Tabs</string>
     <string name="settings_gesture_link_actions_group">Link-Aktiounen</string>
     <string name="settings_player_disabled_explanation">Weider de Player vun der Websäit benotzen.</string>
-    <string name="settings_player_button_fullscreen_explanation">E Knäppchen mécht erkannt Videoen am Vollbild am Candy Player op.</string>
+    <string name="settings_player_button_fullscreen_explanation">E Knäppchen mécht erkannt Videoen am Vollbild am Koi Player op.</string>
     <string name="settings_player_button_inline_explanation">E Knäppchen start de Video bannent der Säit. Vollbild bleift am Player disponibel.</string>
-    <string name="settings_player_fullscreen_explanation">Candy Player benotzen, wann d’Websäit e Video am Vollbild opmécht.</string>
-    <string name="settings_player_automatic_explanation">Candy Player automatesch opmaachen, soubal en ofspillbare Video erkannt gëtt.</string>
+    <string name="settings_player_fullscreen_explanation">Koi Player benotzen, wann d’Websäit e Video am Vollbild opmécht.</string>
+    <string name="settings_player_automatic_explanation">Koi Player automatesch opmaachen, soubal en ofspillbare Video erkannt gëtt.</string>
 </resources>

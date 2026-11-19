@@ -3,7 +3,7 @@
     <string name="site_widget_name">การครอบตัดเว็บไซต์ (ต้นแบบ)</string>
     <string name="site_widget_name_square">ครอบตัดเว็บไซต์ 4×4 (ต้นแบบ)</string>
     <string name="site_widget_description">เก็บพื้นที่เว็บไซต์ที่เลือกไว้บนหน้าจอหลักของคุณ</string>
-    <string name="site_widget_empty">เปิดหน้าใน Candy จากนั้นแตะที่นี่เพื่อเลือกพื้นที่</string>
+    <string name="site_widget_empty">เปิดหน้าใน Koi จากนั้นแตะที่นี่เพื่อเลือกพื้นที่</string>
     <string name="site_widget_open">เปิดหน้า</string>
     <string name="site_widget_refresh">รีเฟรช</string>
     <string name="site_widget_unavailable">ไม่สามารถบันทึกเพจนี้เป็นวิดเจ็ตได้ ใช้โปรไฟล์ในเครื่องปกติและไม่มีการป้องกัน</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">ขนาดการเลือก</string>
     <string name="site_widget_editor_pin">เพิ่มไปที่หน้าจอหลัก</string>
-    <string name="site_widget_editor_interaction_hint">วิดเจ็ตแสดงสแนปชอต แตะเพื่อเปิดหน้าใน Candy</string>
+    <string name="site_widget_editor_interaction_hint">วิดเจ็ตแสดงสแนปชอต แตะเพื่อเปิดหน้าใน Koi</string>
     <string name="site_widget_private_unavailable">วิดเจ็ตเว็บไซต์ไม่พร้อมใช้งานในแท็บส่วนตัว</string>
     <string name="site_widget_capture_failed">ไม่สามารถจับภาพหน้านี้ได้ ลองอีกครั้งเมื่อโหลดเสร็จแล้ว</string>
-    <string name="site_widget_pin_unavailable">ตัวเรียกใช้งานนี้ไม่รองรับการเพิ่มวิดเจ็ตโดยตรง เพิ่มวิดเจ็ตเว็บไซต์ Candy จากตัวเลือกวิดเจ็ต</string>
+    <string name="site_widget_pin_unavailable">ตัวเรียกใช้งานนี้ไม่รองรับการเพิ่มวิดเจ็ตโดยตรง เพิ่มวิดเจ็ตเว็บไซต์ Koi จากตัวเลือกวิดเจ็ต</string>
     <string name="site_widget_save_failed">ไม่สามารถบันทึกวิดเจ็ตนี้ได้ โปรดลองอีกครั้ง</string>
     <string name="site_widget_reselect">แก้ไขการครอบตัด</string>
     <string name="site_widget_refresh_failed">รีเฟรชล้มเหลว สแนปชอตสุดท้ายยังคงแสดงอยู่</string>

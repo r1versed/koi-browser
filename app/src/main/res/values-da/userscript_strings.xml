@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Tilpas matchende sider med Toppings</string>
     <string name="userscript_risk_title">Brug kun Toppings, du stoler på</string>
     <string name="userscript_risk_body">Topping-kode kan læse eller ændre sideindhold og sessionsdata på matchende hjemmesider, handle som din indloggede bruger og gøre sidegengivelsen langsommere. Tilføj kun Toppings fra kilder, du stoler på.</string>
-    <string name="userscript_runtime_unsupported">Gecko Topping værten kunne ikke starte. Genstart eller opdatering Candy for at aktivere Toppings.</string>
+    <string name="userscript_runtime_unsupported">Gecko Topping værten kunne ikke starte. Genstart eller opdatering Koi for at aktivere Toppings.</string>
     <string name="userscript_scope_title">Før du tilføjer en Topping</string>
     <string name="userscript_regular_tabs_only">Toppings kører kun i almindelige faner. De kører aldrig i private faner.</string>
     <string name="userscript_no_gm_apis">Kun almindelig JavaScript på siden understøttes. GM_* og udvidelses-API’er er ikke tilgængelige.</string>
@@ -50,7 +50,7 @@
     <string name="userscript_import_error_empty">Denne fil er tom.</string>
     <string name="userscript_import_error_too_large">Denne sagsmappe overskrider %1$d KB Topping grænsen.</string>
     <string name="userscript_import_error_invalid_utf8">Denne fil er ikke gyldig UTF-8 tekst.</string>
-    <string name="userscript_import_error_unreadable">Candy kunne ikke læse denne fil.</string>
+    <string name="userscript_import_error_unreadable">Koi kunne ikke læse denne fil.</string>
     <string name="userscript_import_error_invalid_metadata">Brugerscript metadata blok mangler eller er misdannet.</string>
     <string name="userscript_import_error_missing_name">Metadatablokken har brug for præcis én @name.</string>
     <string name="userscript_import_error_name_too_long">@name må højst være %1$d tegn og ikke indeholde kontroltegn.</string>
@@ -62,15 +62,15 @@
     <string name="userscript_import_error_unsupported_grant">Denne Topping anmoder om en ikke-støttet @grant eller @connect tilladelse.</string>
     <string name="userscript_import_error_invalid_dependency">En @require eller @resource afhængighed har et ugyldigt navn HTTPS URL, eller integritet hash.</string>
     <string name="userscript_import_error_too_many_dependencies">Denne Topping erklærer for mange @require eller @resource afhængigheder.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy kunne ikke sikkert downloade en @require eller @resource afhængighed.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi kunne ikke sikkert downloade en @require eller @resource afhængighed.</string>
     <string name="userscript_import_error_dependency_too_large">En @require eller @resource afhængighed overstiger downloadgrænsen.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">En @require afhængighed er ikke gyldig UTF-8 tekst.</string>
     <string name="userscript_import_error_dependency_integrity">En @require eller @resource afhængighed matcher ikke dens integritet hash.</string>
-    <string name="userscript_import_error_save_failed">Candy Læs dette Topping men kunne ikke gemme det.</string>
+    <string name="userscript_import_error_save_failed">Koi Læs dette Topping men kunne ikke gemme det.</string>
     <string name="userscript_import_success">%1$s blev importeret.</string>
     <string name="topping_discover">Opdag Toppings</string>
     <string name="topping_catalog_title">Opdag Toppings</string>
-    <string name="topping_catalog_subtitle">EF-forbedringer fra Candy-kataloget</string>
+    <string name="topping_catalog_subtitle">EF-forbedringer fra Koi-kataloget</string>
     <string name="topping_catalog_loading">Indlæser Toppings...</string>
     <string name="topping_catalog_error_title">Toppings ikke tilgængelig</string>
     <string name="topping_catalog_error_body">Kataloget kunne ikke indlæses. Tjek forbindelsen og prøv igen.</string>

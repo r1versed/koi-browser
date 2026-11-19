@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Zabezpečené spojení není dostupné</string>
     <string name="https_only_warning_protection">Ochrana HTTPS</string>
-    <string name="https_only_warning_explanation">Candy nemohlo otevřít tuto stránku přes HTTPS. Spojení HTTP by nebylo šifrované.</string>
+    <string name="https_only_warning_explanation">Koi nemohlo otevřít tuto stránku přes HTTPS. Spojení HTTP by nebylo šifrované.</string>
     <string name="https_only_warning_risk">Ostatní v síti by mohli číst nebo měnit vaše data.</string>
     <string name="https_only_warning_back">Zpět</string>
     <string name="https_only_warning_retry">Zkusit HTTPS znovu</string>

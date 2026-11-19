@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Tilpass sider som passer med Toppings</string>
     <string name="userscript_risk_title">Bruk bare Toppings du stoler på</string>
     <string name="userscript_risk_body">Topping-kode kan lese eller endre sideinnhold og øktdata på aktuelle nettsider, handle som den innloggede brukeren din og gjøre sidegjengivelsen tregere. Legg bare til Toppings fra kilder du stoler på.</string>
-    <string name="userscript_runtime_unsupported">Gecko Topping verten kunne ikke starte. Start eller oppdater Candy for å aktivere Toppings.</string>
+    <string name="userscript_runtime_unsupported">Gecko Topping verten kunne ikke starte. Start eller oppdater Koi for å aktivere Toppings.</string>
     <string name="userscript_scope_title">Før du legger til en Topping</string>
     <string name="userscript_regular_tabs_only">Toppings kjører bare i vanlige faner. De kjører aldri i private faner.</string>
     <string name="userscript_no_gm_apis">Bare vanlig JavaScript på siden støttes. GM_* og API-er for utvidelser er utilgjengelige.</string>
@@ -50,7 +50,7 @@
     <string name="userscript_import_error_empty">Fila er tom.</string>
     <string name="userscript_import_error_too_large">Denne saksmappen overskrider %1$d KB Topping grensen.</string>
     <string name="userscript_import_error_invalid_utf8">Denne fila er ikke gyldig UTF-8 tekst.</string>
-    <string name="userscript_import_error_unreadable">Candy kunne ikke lese denne fila.</string>
+    <string name="userscript_import_error_unreadable">Koi kunne ikke lese denne fila.</string>
     <string name="userscript_import_error_invalid_metadata">Metadatablokka for brukerskript mangler eller er feilutformet.</string>
     <string name="userscript_import_error_missing_name">Metadatablokken trenger nøyaktig én @name.</string>
     <string name="userscript_import_error_name_too_long">@name skal være høyst %1$d tegn og ikke inneholde kontrolltegn.</string>
@@ -62,15 +62,15 @@
     <string name="userscript_import_error_unsupported_grant">Denne Topping ber om tillatelse som ikke er støttet @grant eller @connect.</string>
     <string name="userscript_import_error_invalid_dependency">En @require- eller @resource-avhengighet har et ugyldig navn HTTPS URL eller integritetshash.</string>
     <string name="userscript_import_error_too_many_dependencies">Dette Topping erklærer for mange @require eller @resource avhengigheter.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy kunne ikke laste ned et avhengighet @require eller @resource på en sikker måte.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi kunne ikke laste ned et avhengighet @require eller @resource på en sikker måte.</string>
     <string name="userscript_import_error_dependency_too_large">Et @require- eller @resource-avhengighet overstiger nedlastingsgrensen.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">En @require-avhengighet er ikke gyldig UTF-8 tekst.</string>
     <string name="userscript_import_error_dependency_integrity">En @require - eller @resource -avhengighet stemmer ikke med dens integritetshash.</string>
-    <string name="userscript_import_error_save_failed">Candy les dette Topping men klarte ikke å lagre.</string>
+    <string name="userscript_import_error_save_failed">Koi les dette Topping men klarte ikke å lagre.</string>
     <string name="userscript_import_success">%1$s ble importert.</string>
     <string name="topping_discover">Oppdag Toppings</string>
     <string name="topping_catalog_title">Oppdag Toppings</string>
-    <string name="topping_catalog_subtitle">Fellesskapsforbedringer fra Candy-katalogen</string>
+    <string name="topping_catalog_subtitle">Fellesskapsforbedringer fra Koi-katalogen</string>
     <string name="topping_catalog_loading">Laster Toppings ...</string>
     <string name="topping_catalog_error_title">Toppings ikke tilgjengelig</string>
     <string name="topping_catalog_error_body">Katalogen kunne ikke lastes inn. Sjekk tilkoblingen og prøv igjen.</string>

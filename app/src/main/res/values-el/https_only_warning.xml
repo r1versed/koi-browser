@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Δεν υπάρχει διαθέσιμη ασφαλής σύνδεση</string>
     <string name="https_only_warning_protection">Προστασία HTTPS</string>
-    <string name="https_only_warning_explanation">Το Candy δεν μπόρεσε να ανοίξει τη σελίδα μέσω HTTPS. Μια σύνδεση HTTP δεν θα ήταν κρυπτογραφημένη.</string>
+    <string name="https_only_warning_explanation">Το Koi δεν μπόρεσε να ανοίξει τη σελίδα μέσω HTTPS. Μια σύνδεση HTTP δεν θα ήταν κρυπτογραφημένη.</string>
     <string name="https_only_warning_risk">Άλλοι στο δίκτυο θα μπορούσαν να διαβάσουν ή να αλλάξουν τα δεδομένα σας.</string>
     <string name="https_only_warning_back">Επιστροφή</string>
     <string name="https_only_warning_retry">Νέα προσπάθεια HTTPS</string>

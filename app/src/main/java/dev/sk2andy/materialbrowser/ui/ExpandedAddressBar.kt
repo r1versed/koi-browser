@@ -627,7 +627,7 @@ internal fun ExpandedBottomBarContent(
                             },
                             editorTrailingContent = {
                                 if (tab.url == BLANK_URL) {
-                                    BlankTabIncognitoModeButton(
+                                    if (showIncognitoToggle) BlankTabIncognitoModeButton(
                                         enabled = tab.isIncognito,
                                         progress = blankTabModeProgress,
                                         onCenterChanged = onIncognitoControlCenterChanged,
@@ -1088,12 +1088,12 @@ internal fun AddressEditorBackdrop(
                 shape = RoundedCornerShape(
                     BlankTabModeMorphRules.heroCornerRadiusDp(boundedProgress).dp,
                 ),
-                color = lerp(blankTabColors.regularHero, blankTabColors.incognitoHero, boundedProgress),
-                shadowElevation = 14.dp,
+                color = lerp(blankTabColors.regularHero.copy(alpha = 0f), blankTabColors.incognitoHero, boundedProgress),
+                shadowElevation = (14 * boundedProgress).dp,
             ) {
                 Box(contentAlignment = Alignment.Center) {
                     Icon(
-                        painter = painterResource(R.drawable.ic_launcher_foreground_art),
+                        painter = painterResource(R.drawable.ic_koi_blank),
                         contentDescription = null,
                         modifier = Modifier
                             .size(68.dp)
@@ -1125,3 +1125,5 @@ internal fun AddressEditorBackdrop(
 internal object AddressEditorTestTags {
     const val Hero = "address_editor_hero"
 }
+
+private val showIncognitoToggle = false

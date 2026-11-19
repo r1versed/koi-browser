@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Brak dostępnego bezpiecznego połączenia</string>
     <string name="https_only_warning_protection">Ochrona HTTPS</string>
-    <string name="https_only_warning_explanation">Candy nie może otworzyć tej strony przez HTTPS. Połączenie HTTP byłoby nieszyfrowane.</string>
+    <string name="https_only_warning_explanation">Koi nie może otworzyć tej strony przez HTTPS. Połączenie HTTP byłoby nieszyfrowane.</string>
     <string name="https_only_warning_risk">Inne osoby w sieci mogłyby odczytywać lub zmieniać Twoje dane.</string>
     <string name="https_only_warning_back">Wróć</string>
     <string name="https_only_warning_retry">Ponów próbę HTTPS</string>

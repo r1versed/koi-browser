@@ -2,7 +2,7 @@
     <string name="site_widget_name">Website-Ausschnitt (Prototyp)</string>
     <string name="site_widget_name_square">Website-Ausschnitt 4×4 (Prototyp)</string>
     <string name="site_widget_description">Zeige einen gewählten Website-Ausschnitt auf dem Startbildschirm</string>
-    <string name="site_widget_empty">Öffne eine Seite in Candy und tippe dann hier, um einen Ausschnitt zu wählen.</string>
+    <string name="site_widget_empty">Öffne eine Seite in Koi und tippe dann hier, um einen Ausschnitt zu wählen.</string>
     <string name="site_widget_open">Seite öffnen</string>
     <string name="site_widget_refresh">Aktualisieren</string>
     <string name="site_widget_unavailable">Diese Seite kann nicht als Widget gespeichert werden. Nutze ein normales, ungeschütztes lokales Profil.</string>
@@ -16,10 +16,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Größe des Ausschnitts</string>
     <string name="site_widget_editor_pin">Zum Startbildschirm hinzufügen</string>
-    <string name="site_widget_editor_interaction_hint">Das Widget zeigt eine Momentaufnahme. Antippen öffnet die Seite in Candy.</string>
+    <string name="site_widget_editor_interaction_hint">Das Widget zeigt eine Momentaufnahme. Antippen öffnet die Seite in Koi.</string>
     <string name="site_widget_private_unavailable">Website-Widgets sind in privaten Tabs nicht verfügbar.</string>
     <string name="site_widget_capture_failed">Die Seite konnte nicht aufgenommen werden. Versuche es nach dem Laden erneut.</string>
-    <string name="site_widget_pin_unavailable">Dieser Launcher unterstützt das direkte Hinzufügen nicht. Füge das Candy-Website-Widget über seine Widget-Auswahl hinzu.</string>
+    <string name="site_widget_pin_unavailable">Dieser Launcher unterstützt das direkte Hinzufügen nicht. Füge das Koi-Website-Widget über seine Widget-Auswahl hinzu.</string>
     <string name="site_widget_save_failed">Das Widget konnte nicht gespeichert werden. Bitte versuche es erneut.</string>
     <string name="site_widget_reselect">Ausschnitt bearbeiten</string>
     <string name="site_widget_refresh_failed">Aktualisierung fehlgeschlagen. Die letzte Aufnahme bleibt sichtbar.</string>

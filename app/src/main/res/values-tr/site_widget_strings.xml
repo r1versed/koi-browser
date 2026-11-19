@@ -3,7 +3,7 @@
     <string name="site_widget_name">Web sitesi kırpma (prototip)</string>
     <string name="site_widget_name_square">Web sitesi kırpma 4×4 (prototip)</string>
     <string name="site_widget_description">Seçilen bir web sitesi alanını ana ekranınızda tutun</string>
-    <string name="site_widget_empty">"Candy'de bir sayfa açın ve ardından bir alan seçmek için buraya dokunun."</string>
+    <string name="site_widget_empty">"Koi'de bir sayfa açın ve ardından bir alan seçmek için buraya dokunun."</string>
     <string name="site_widget_open">Sayfayı aç</string>
     <string name="site_widget_refresh">Yenile</string>
     <string name="site_widget_unavailable">Bu sayfa widget olarak kaydedilemez. Düzenli, korumasız bir yerel profil kullanın.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4×4</string>
     <string name="site_widget_editor_size">Seçim boyutu</string>
     <string name="site_widget_editor_pin">Ana ekrana ekle</string>
-    <string name="site_widget_editor_interaction_hint">"Widget bir anlık görüntü gösterir. Sayfayı Candy'de açmak için buna dokunun."</string>
+    <string name="site_widget_editor_interaction_hint">"Widget bir anlık görüntü gösterir. Sayfayı Koi'de açmak için buna dokunun."</string>
     <string name="site_widget_private_unavailable">"Web sitesi widget'ları özel sekmelerde kullanılamaz."</string>
     <string name="site_widget_capture_failed">Bu sayfa yakalanamadı. Yükleme bittiğinde tekrar deneyin.</string>
-    <string name="site_widget_pin_unavailable">"Bu başlatıcı doğrudan widget eklemeyi desteklemiyor. Candy web sitesi widget'ını widget seçiciden ekleyin."</string>
+    <string name="site_widget_pin_unavailable">"Bu başlatıcı doğrudan widget eklemeyi desteklemiyor. Koi web sitesi widget'ını widget seçiciden ekleyin."</string>
     <string name="site_widget_save_failed">Bu widget kaydedilemedi. Lütfen tekrar deneyin.</string>
     <string name="site_widget_reselect">Kırpmayı düzenle</string>
     <string name="site_widget_refresh_failed">Yenileme başarısız oldu. Son anlık görüntü hâlâ gösteriliyor.</string>

@@ -8,8 +8,8 @@
     <string name="settings_gesture_private_tabs_group">Privatne kartice</string>
     <string name="settings_gesture_link_actions_group">Radnje s linkovima</string>
     <string name="settings_player_disabled_explanation">Nastavite koristiti player web-stranice.</string>
-    <string name="settings_player_button_fullscreen_explanation">Dugme otvara otkrivene videozapise preko cijelog ekrana u Candy Playeru.</string>
+    <string name="settings_player_button_fullscreen_explanation">Dugme otvara otkrivene videozapise preko cijelog ekrana u Koi Playeru.</string>
     <string name="settings_player_button_inline_explanation">Dugme pokreće videozapis unutar stranice. Prikaz preko cijelog ekrana ostaje dostupan u playeru.</string>
-    <string name="settings_player_fullscreen_explanation">Koristite Candy Player kada web-stranica otvori videozapis preko cijelog ekrana.</string>
-    <string name="settings_player_automatic_explanation">Automatski otvorite Candy Player kada se otkrije videozapis koji se može reproducirati.</string>
+    <string name="settings_player_fullscreen_explanation">Koristite Koi Player kada web-stranica otvori videozapis preko cijelog ekrana.</string>
+    <string name="settings_player_automatic_explanation">Automatski otvorite Koi Player kada se otkrije videozapis koji se može reproducirati.</string>
 </resources>

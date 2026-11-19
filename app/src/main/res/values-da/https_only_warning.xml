@@ -2,7 +2,7 @@
 <resources>
     <string name="https_only_warning_title">Ingen sikker forbindelse tilgængelig</string>
     <string name="https_only_warning_protection">HTTPS-beskyttelse</string>
-    <string name="https_only_warning_explanation">Candy kunne ikke åbne denne side via HTTPS. En HTTP-forbindelse ville være ukrypteret.</string>
+    <string name="https_only_warning_explanation">Koi kunne ikke åbne denne side via HTTPS. En HTTP-forbindelse ville være ukrypteret.</string>
     <string name="https_only_warning_risk">Andre på netværket kan læse eller ændre dine data.</string>
     <string name="https_only_warning_back">Gå tilbage</string>
     <string name="https_only_warning_retry">Prøv HTTPS igen</string>

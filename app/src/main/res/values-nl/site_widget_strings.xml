@@ -3,7 +3,7 @@
     <string name="site_widget_name">Website bijsnijden (prototype)</string>
     <string name="site_widget_name_square">Website bijsnijden 4×4 (prototype)</string>
     <string name="site_widget_description">Houd een geselecteerd websitegebied op uw startscherm</string>
-    <string name="site_widget_empty">Open een pagina in Candy en tik vervolgens hier om een ​​gebied te selecteren.</string>
+    <string name="site_widget_empty">Open een pagina in Koi en tik vervolgens hier om een ​​gebied te selecteren.</string>
     <string name="site_widget_open">Pagina openen</string>
     <string name="site_widget_refresh">Vernieuwen</string>
     <string name="site_widget_unavailable">Deze pagina kan niet als widget worden opgeslagen. Gebruik een normaal, onbeschermd lokaal profiel.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Selectie maat</string>
     <string name="site_widget_editor_pin">Toevoegen aan startscherm</string>
-    <string name="site_widget_editor_interaction_hint">De widget toont een momentopname. Tik erop om de pagina in Candy te openen.</string>
+    <string name="site_widget_editor_interaction_hint">De widget toont een momentopname. Tik erop om de pagina in Koi te openen.</string>
     <string name="site_widget_private_unavailable">Websitewidgets zijn niet beschikbaar op privétabbladen.</string>
     <string name="site_widget_capture_failed">Kan deze pagina niet vastleggen. Probeer het opnieuw als het laden is voltooid.</string>
-    <string name="site_widget_pin_unavailable">Dit opstartprogramma biedt geen ondersteuning voor het rechtstreeks toevoegen van widgets. Voeg de Candy-websitewidget toe vanuit de widgetkiezer.</string>
+    <string name="site_widget_pin_unavailable">Dit opstartprogramma biedt geen ondersteuning voor het rechtstreeks toevoegen van widgets. Voeg de Koi-websitewidget toe vanuit de widgetkiezer.</string>
     <string name="site_widget_save_failed">Kan deze widget niet opslaan. Probeer het opnieuw.</string>
     <string name="site_widget_reselect">Bijsnijden bewerken</string>
     <string name="site_widget_refresh_failed">Vernieuwen mislukt. De laatste momentopname wordt nog steeds weergegeven.</string>

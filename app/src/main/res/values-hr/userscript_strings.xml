@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Prilagođivanje odgovarajućih stranica s Toppings</string>
     <string name="userscript_risk_title">Koristite samo Toppings kojima vjerujete</string>
     <string name="userscript_risk_body">Kod Toppinga može čitati ili mijenjati sadržaj stranice i podatke sesije na odgovarajućim web-stranicama, djelovati kao vaš prijavljeni korisnik i usporiti prikaz stranice. Dodajte samo Toppings iz izvora kojima vjerujete.</string>
-    <string name="userscript_runtime_unsupported">Gecko sustav za Toppings nije se mogao pokrenuti. Ponovno pokrenite ili ažurirajte Candy da omogućite Toppings.</string>
+    <string name="userscript_runtime_unsupported">Gecko sustav za Toppings nije se mogao pokrenuti. Ponovno pokrenite ili ažurirajte Koi da omogućite Toppings.</string>
     <string name="userscript_scope_title">Prije nego što dodate Topping</string>
     <string name="userscript_regular_tabs_only">Toppings se izvršavaju samo u običnim karticama. Nikad se ne izvršavaju u privatnim karticama.</string>
     <string name="userscript_no_gm_apis">Podržan je samo standardni JavaScript stranice. GM_* i API-ji proširenja nisu dostupni.</string>
@@ -51,7 +51,7 @@
     <string name="userscript_import_error_empty">Ova datoteka je prazna.</string>
     <string name="userscript_import_error_too_large">Ova datoteka premašuje granicu %1$d KB Topping.</string>
     <string name="userscript_import_error_invalid_utf8">Ova datoteka nije valjan UTF-8 tekst.</string>
-    <string name="userscript_import_error_unreadable">Candy nije mogao pročitati ovu datoteku.</string>
+    <string name="userscript_import_error_unreadable">Koi nije mogao pročitati ovu datoteku.</string>
     <string name="userscript_import_error_invalid_metadata">Blok metapodaca za userscript nedostaje ili je neispravno oblikovan.</string>
     <string name="userscript_import_error_missing_name">Metapodatni blok treba točno jedan @name.</string>
     <string name="userscript_import_error_name_too_long">@name mora biti najviše %1$d znakova i ne mora sadržavati kontrolne znakove.</string>
@@ -63,15 +63,15 @@
     <string name="userscript_import_error_unsupported_grant">Ovo Topping zahtijeva nepodržanu @grant ili @connect dozvolu.</string>
     <string name="userscript_import_error_invalid_dependency">Zavisnost @require ili @resource ima nevažeće ime, HTTPS URL ili integritetski heš.</string>
     <string name="userscript_import_error_too_many_dependencies">Ovaj Topping deklarira previše @require ili @resource ovisnosti.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy nije mogao sigurno preuzeti @require ili @resource ovisnost.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi nije mogao sigurno preuzeti @require ili @resource ovisnost.</string>
     <string name="userscript_import_error_dependency_too_large">Zavisnost @require ili @resource premašuje ograničenje preuzimanja.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">@require ovisnost nije valjan UTF-8 tekst.</string>
     <string name="userscript_import_error_dependency_integrity">Zavisnost @require ili @resource ne podudara se s hashom integriteta.</string>
-    <string name="userscript_import_error_save_failed">Candy pročitao Topping ali ga nije mogao sačuvati.</string>
+    <string name="userscript_import_error_save_failed">Koi pročitao Topping ali ga nije mogao sačuvati.</string>
     <string name="userscript_import_success">%1$s je uvezena.</string>
     <string name="topping_discover">Otkrij Toppings</string>
     <string name="topping_catalog_title">Otkrij Toppings</string>
-    <string name="topping_catalog_subtitle">Povećanja Zajednice iz kataloga Candy</string>
+    <string name="topping_catalog_subtitle">Povećanja Zajednice iz kataloga Koi</string>
     <string name="topping_catalog_loading">Učitavanje Toppings…</string>
     <string name="topping_catalog_error_title">Toppings nedostupno</string>
     <string name="topping_catalog_error_body">Katalog se nije mogao učitati. Provjerite vezu i pokušajte ponovo.</string>

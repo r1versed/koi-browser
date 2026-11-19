@@ -8,8 +8,8 @@
     <string name="settings_gesture_private_tabs_group">Soukromé karty</string>
     <string name="settings_gesture_link_actions_group">Akce odkazů</string>
     <string name="settings_player_disabled_explanation">Nadále používat přehrávač webu.</string>
-    <string name="settings_player_button_fullscreen_explanation">Tlačítko otevře rozpoznaná videa na celou obrazovku v Candy Player.</string>
+    <string name="settings_player_button_fullscreen_explanation">Tlačítko otevře rozpoznaná videa na celou obrazovku v Koi Player.</string>
     <string name="settings_player_button_inline_explanation">Tlačítko spustí video uvnitř stránky. Celá obrazovka zůstává dostupná v přehrávači.</string>
-    <string name="settings_player_fullscreen_explanation">Použít Candy Player, když web otevře video na celou obrazovku.</string>
-    <string name="settings_player_automatic_explanation">Automaticky otevřít Candy Player po rozpoznání přehratelného videa.</string>
+    <string name="settings_player_fullscreen_explanation">Použít Koi Player, když web otevře video na celou obrazovku.</string>
+    <string name="settings_player_automatic_explanation">Automaticky otevřít Koi Player po rozpoznání přehratelného videa.</string>
 </resources>

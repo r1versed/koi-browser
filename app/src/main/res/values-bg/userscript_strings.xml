@@ -6,7 +6,7 @@
     <string name="settings_home_userscripts_summary">Приспособяване на съответстващи страници с Toppings</string>
     <string name="userscript_risk_title">Използвайте само Toppings, на които имате доверие</string>
     <string name="userscript_risk_body">Кодът на Topping може да чете или променя съдържанието на страницата и данните на сесията в съответстващите сайтове, да действа като вашия влязъл потребител и да забави визуализирането на страницата. Добавяйте само Toppings от източници, на които имате доверие.</string>
-    <string name="userscript_runtime_unsupported">Системата Gecko за Toppings не можа да стартира. Рестартирайте или актуализирайте Candy, за да включите Toppings.</string>
+    <string name="userscript_runtime_unsupported">Системата Gecko за Toppings не можа да стартира. Рестартирайте или актуализирайте Koi, за да включите Toppings.</string>
     <string name="userscript_scope_title">Преди да добавите Topping</string>
     <string name="userscript_regular_tabs_only">Toppings се изпълняват само в обикновени раздели. Никога не се изпълняват в частни раздели.</string>
     <string name="userscript_no_gm_apis">Поддържа се само стандартният JavaScript на страницата. GM_* и API за разширения не са достъпни.</string>
@@ -50,7 +50,7 @@
     <string name="userscript_import_error_empty">Файлът е празен.</string>
     <string name="userscript_import_error_too_large">Този файл надвишава границата %1$d KB Topping.</string>
     <string name="userscript_import_error_invalid_utf8">Този файл не е валиден UTF-8 текст.</string>
-    <string name="userscript_import_error_unreadable">Candy не можа да прочете този файл.</string>
+    <string name="userscript_import_error_unreadable">Koi не можа да прочете този файл.</string>
     <string name="userscript_import_error_invalid_metadata">Блокът с метаданни на usercript липсва или е деформиран.</string>
     <string name="userscript_import_error_missing_name">Блокът от метаданни се нуждае от точно един @name.</string>
     <string name="userscript_import_error_name_too_long">@name трябва да бъде най-много %1$d знака и да не съдържа контролни знаци.</string>
@@ -62,15 +62,15 @@
     <string name="userscript_import_error_unsupported_grant">Това Topping изисква разрешение @grant или @connect без поддръжка.</string>
     <string name="userscript_import_error_invalid_dependency">Зависимостта @require или @resource има невалидно име, HTTPS URL адрес или хаш на целостта.</string>
     <string name="userscript_import_error_too_many_dependencies">Това Topping декларира твърде много @require или @resource зависимости.</string>
-    <string name="userscript_import_error_dependency_unavailable">Candy не можа да изтегли безопасно зависимост @require или @resource.</string>
+    <string name="userscript_import_error_dependency_unavailable">Koi не можа да изтегли безопасно зависимост @require или @resource.</string>
     <string name="userscript_import_error_dependency_too_large">Зависимостта @require или @resource надвишава ограничението за изтегляне.</string>
     <string name="userscript_import_error_dependency_invalid_utf8">Зависимостта @require не е валиден текст UTF-8.</string>
     <string name="userscript_import_error_dependency_integrity">Зависимостта @require или @resource не съответства на хаша на целостта.</string>
-    <string name="userscript_import_error_save_failed">Candy прочете това Topping но не можа да го запази.</string>
+    <string name="userscript_import_error_save_failed">Koi прочете това Topping но не можа да го запази.</string>
     <string name="userscript_import_success">%1$s е бил внасян.</string>
     <string name="topping_discover">Откриване Toppings</string>
     <string name="topping_catalog_title">Откриване Toppings</string>
-    <string name="topping_catalog_subtitle">Общностни подобрения от каталога Candy</string>
+    <string name="topping_catalog_subtitle">Общностни подобрения от каталога Koi</string>
     <string name="topping_catalog_loading">Зареждане на Toppings…</string>
     <string name="topping_catalog_error_title">Toppings недостъпна</string>
     <string name="topping_catalog_error_body">Каталогът не може да бъде зареден. Проверете връзката и опитайте отново.</string>

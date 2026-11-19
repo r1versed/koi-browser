@@ -3,7 +3,7 @@
     <string name="site_widget_name">Recorte del sitio web (prototipo)</string>
     <string name="site_widget_name_square">Recorte de sitio web 4×4 (prototipo)</string>
     <string name="site_widget_description">Mantenga un área de sitio web seleccionada en su pantalla de inicio</string>
-    <string name="site_widget_empty">Abra una página en Candy, luego toque aquí para seleccionar un área.</string>
+    <string name="site_widget_empty">Abra una página en Koi, luego toque aquí para seleccionar un área.</string>
     <string name="site_widget_open">Abrir página</string>
     <string name="site_widget_refresh">Actualizar</string>
     <string name="site_widget_unavailable">Esta página no se puede guardar como un widget. Utilice un perfil local normal y desprotegido.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4×4</string>
     <string name="site_widget_editor_size">Tamaño de selección</string>
     <string name="site_widget_editor_pin">Agregar a la pantalla de inicio</string>
-    <string name="site_widget_editor_interaction_hint">El widget muestra una instantánea. Tócalo para abrir la página en Candy.</string>
+    <string name="site_widget_editor_interaction_hint">El widget muestra una instantánea. Tócalo para abrir la página en Koi.</string>
     <string name="site_widget_private_unavailable">Los widgets del sitio web no están disponibles en pestañas privadas.</string>
     <string name="site_widget_capture_failed">No se pudo capturar esta página. Vuelve a intentarlo cuando haya terminado de cargarse.</string>
-    <string name="site_widget_pin_unavailable">Este iniciador no admite la adición de widgets directamente. Agregue el widget del sitio web de Candy desde su selector de widgets.</string>
+    <string name="site_widget_pin_unavailable">Este iniciador no admite la adición de widgets directamente. Agregue el widget del sitio web de Koi desde su selector de widgets.</string>
     <string name="site_widget_save_failed">No se pudo guardar este widget. Por favor inténtalo de nuevo.</string>
     <string name="site_widget_reselect">Editar recorte</string>
     <string name="site_widget_refresh_failed">Error al actualizar. La última instantánea todavía se muestra.</string>

@@ -156,7 +156,7 @@ internal fun Modifier.blankTabModeBackground(
             drawProfileWallpaper(
                 bitmap = wallpaper.bitmap,
                 wallpaper = wallpaper.wallpaper,
-                scrimAlpha = 0.42f,
+                scrimAlpha = 0f,
             )
         }
         if (revealRadius > 0f) {

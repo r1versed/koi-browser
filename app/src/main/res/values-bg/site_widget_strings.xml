@@ -3,7 +3,7 @@
     <string name="site_widget_name">Изрязване на уебсайт (прототип)</string>
     <string name="site_widget_name_square">Изрязване на уебсайт 4×4 (прототип)</string>
     <string name="site_widget_description">Запазете избрана област на уебсайт на началния екран</string>
-    <string name="site_widget_empty">Отворете страница в Candy, след което докоснете тук, за да изберете област.</string>
+    <string name="site_widget_empty">Отворете страница в Koi, след което докоснете тук, за да изберете област.</string>
     <string name="site_widget_open">Отваряне на страницата</string>
     <string name="site_widget_refresh">Опресняване</string>
     <string name="site_widget_unavailable">Тази страница не може да бъде запазена като джаджа. Използвайте обикновен, незащитен локален профил.</string>
@@ -17,10 +17,10 @@
     <string name="site_widget_format_four_by_four">4 × 4</string>
     <string name="site_widget_editor_size">Размер на избора</string>
     <string name="site_widget_editor_pin">Добавяне към началния екран</string>
-    <string name="site_widget_editor_interaction_hint">Джаджата показва моментна снимка. Докоснете я, за да отворите страницата в Candy.</string>
+    <string name="site_widget_editor_interaction_hint">Джаджата показва моментна снимка. Докоснете я, за да отворите страницата в Koi.</string>
     <string name="site_widget_private_unavailable">Приспособленията за уебсайтове не са налични в частни раздели.</string>
     <string name="site_widget_capture_failed">Тази страница не можа да бъде заснета. Опитайте отново, когато приключи зареждането.</string>
-    <string name="site_widget_pin_unavailable">Тази програма за начален екран не поддържа директно добавяне на джаджи. Добавете джаджата за уебсайтове на Candy от нейния списък с джаджи.</string>
+    <string name="site_widget_pin_unavailable">Тази програма за начален екран не поддържа директно добавяне на джаджи. Добавете джаджата за уебсайтове на Koi от нейния списък с джаджи.</string>
     <string name="site_widget_save_failed">Тази джаджа не можа да бъде запазена. Моля, опитайте отново.</string>
     <string name="site_widget_reselect">Редактиране на изрязване</string>
     <string name="site_widget_refresh_failed">Опресняването не бе успешно. Последната моментна снимка все още се показва.</string>
