@@ -77,7 +77,8 @@ For a release build, copy `keystore.properties.example` to `keystore.properties`
 
 ## Credits
 
-Koi is a fork of [Candy Browser](https://github.com/sk2andy/candy-browser) by sk2andy, used and modified with the author's permission under the Mozilla Public License 2.0. It is built on Mozilla's GeckoView and bundles uBlock Origin by Raymond Hill and contributors. The full list of third-party components is in [`app/src/main/assets/third_party_notices.txt`](app/src/main/assets/third_party_notices.txt).
+Koi is a fork of ice raven Browser (https://github.com/fork-maintainers/iceraven-browser), Mozilla Firefox for Android (Fenix), GeckoView and Android Components. Thank you to everyone who worked on those., used and modified with the author's permission under the Mozilla Public License 2.0. It is built on Mozilla's GeckoView and bundles uBlock Origin by Raymond Hill and contributors.
+## koi is an independent project. It is not made, endorsed, vetted or secured by Mozilla or Iceraven. Firefox and Mozilla are trademarks of the Mozilla Foundation.
 
 ## License
 
