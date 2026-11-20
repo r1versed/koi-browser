@@ -20,8 +20,8 @@ data class ThirdPartyNotice(
 )
 
 object CandyLegalSources {
-    const val DEVELOPER_NAME = "André Naumann"
-    const val GITHUB_PROFILE_URL = "https://github.com/sk2andy"
+    const val DEVELOPER_NAME = "Cielo"
+    const val GITHUB_PROFILE_URL = "https://github.com/r1versed"
     const val PRIVACY_POLICY_URL = "https://sk2andy.github.io/candy-browser/privacy/"
     const val UASSETS_REVISION = "05bc031ad40c2270223f068f052970201ca1bf14"
     const val UASSETS_SHORT_REVISION = "05bc031ad40c"

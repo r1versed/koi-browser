@@ -748,7 +748,7 @@
     <string name="about_imprint_body">Koi Browser is a personal project with publicly available source, developed by %1$s. The linked public GitHub profile shows the developer and current projects.</string>
     <string name="about_version">Koi Browser version %1$s</string>
     <string name="about_github_action">Open GitHub profile</string>
-    <string name="about_open_source_intro">Koi uses these runtime components, services, and filter data. Google Code Scanner is listed separately because Google APIs Terms apply instead of an open-source license. Koi Browser is based on the open source Candy Browser (MPL 2.0).</string>
+    <string name="about_open_source_intro">Koi uses these runtime components, services, and filter data. Google Code Scanner is listed separately because Google APIs Terms apply instead of an open-source license.</string>
     <string name="about_open_source_intro_foss">Koi uses these open-source runtime components and filter data. This FOSS build excludes Google Play services.</string>
     <string name="about_license_androidx">AndroidX &amp; Jetpack Compose</string>
     <string name="about_license_kotlin">Kotlin, Coroutines &amp; JetBrains annotations</string>

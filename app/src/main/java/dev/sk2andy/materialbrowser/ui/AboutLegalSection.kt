@@ -97,16 +97,6 @@ internal fun AboutLegalSection(
         ) {
             Column {
                 AboutLegalRow(
-                    title = stringResource(R.string.settings_privacy_policy_title),
-                    summary = stringResource(R.string.settings_privacy_policy_summary),
-                    tag = AboutLegalTestTags.PrivacyPolicy,
-                    onClick = { onOpenUrl(CandyLegalSources.PRIVACY_POLICY_URL) },
-                )
-                HorizontalDivider(
-                    modifier = Modifier.padding(horizontal = 18.dp),
-                    color = MaterialTheme.colorScheme.outlineVariant,
-                )
-                AboutLegalRow(
                     title = stringResource(R.string.settings_imprint_title),
                     summary = stringResource(R.string.settings_imprint_summary),
                     tag = AboutLegalTestTags.Imprint,
@@ -223,7 +213,7 @@ private fun ImprintDialog(onOpenUrl: () -> Unit, onDismiss: () -> Unit) {
         )
         Spacer(Modifier.height(10.dp))
         Text(
-            stringResource(R.string.about_version, BuildConfig.VERSION_NAME),
+            stringResource(R.string.about_version, "0.1.0"),
             style = MaterialTheme.typography.bodySmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )
