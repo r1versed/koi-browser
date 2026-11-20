@@ -2944,7 +2944,6 @@ class BrowserController(
             profileWallpaperStore.cleanup(configuredWallpapers)
         }
         refreshActiveProfileWallpaper()
-        seedDefaultHomeWallpaper(activeProfileId, profiles.first { it.id == activeProfileId }.newTabWallpaper != null)
         val (restoredTabs, restoredSelection) = store.loadTabs(nowMillis)
         pendingBootstrapRecoveryTabIds += restoredTabs.asSequence()
             .filter { tab -> GeckoBootstrapRecoveryRules.hasPoisonedAddress(tab.url) }
@@ -7021,27 +7020,6 @@ class BrowserController(
         profiles[index] = updatedProfile
         persist()
         return true
-    }
-
-    private fun seedDefaultHomeWallpaper(profileId: String, hasWallpaper: Boolean) {
-        val prefs = activity.applicationContext.getSharedPreferences("koi_defaults", android.content.Context.MODE_PRIVATE)
-        if (prefs.getBoolean("home_wallpaper_seeded", false)) return
-        if (hasWallpaper) {
-            prefs.edit().putBoolean("home_wallpaper_seeded", true).apply()
-            return
-        }
-        profileWallpaperExecutor.execute {
-            val bitmap = runCatching {
-                activity.assets.open("koi_default_wallpaper.jpg").use { android.graphics.BitmapFactory.decodeStream(it) }
-            }.getOrNull() ?: return@execute
-            val saved = profileWallpaperStore.save(profileId, ProfileWallpaperTarget.NewTab, bitmap)
-            bitmap.recycle()
-            if (!saved) return@execute
-            activity.runOnUiThread {
-                updateProfileWallpaper(profileId, ProfileWallpaperTarget.NewTab, ProfileWallpaper())
-                prefs.edit().putBoolean("home_wallpaper_seeded", true).apply()
-            }
-        }
     }
 
     fun updateProfileWallpaper(
