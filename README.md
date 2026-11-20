@@ -68,7 +68,7 @@ You need Git, JDK 17, Python 3 and the Android SDK. Gradle downloads the platfor
 git clone https://github.com/r1versed/koi-browser.git
 cd koi-browser
 $env:ANDROID_HOME = "C:\Android\sdk"
-.\gradlew.bat :app:assembleFullDebug
+.\gradlew.bat
 ```
 
 On macOS or Linux use `./gradlew`. The APK is written to `app/build/outputs/apk/full/debug/`.
